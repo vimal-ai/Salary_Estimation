@@ -1,0 +1,2082 @@
+Job Title,Type of ownership,Sector,min_salary,max_salary,city,state,h_city,h_state,same_city
+Junior Data Analyst,Nonprofit Organization,Non-Profit,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Health Care,37,66,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Information Technology,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,37,66,New York,NY,McLean,VA,0
+Junior Data Analyst,Company - Private,"Arts, Entertainment & Recreation",37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Finance,37,66,New York,NY,Stamford,CT,0
+Junior Data Analyst,Company - Private,Finance,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Insurance,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Finance,37,66,New York,NY,London,United Kingdom,0
+Junior Data Analyst,Company - Private,Business Services,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Hospital,Health Care,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Health Care,37,66,New York,NY,Bronx,NY,0
+Senior Data Analyst,Company - Private,Business Services,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Finance,37,66,Jersey City,NJ,Phoenix,AZ,0
+Junior Data Analyst,Company - Private,Business Services,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Business Services,37,66,New York,NY,Rome,NY,0
+Junior Data Analyst,Nonprofit Organization,Business Services,37,66,New York,NY,Waltham,MA,0
+Junior Data Analyst,Company - Private,Information Technology,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Information Technology,37,66,New York,NY,Mountain View,CA,0
+Junior Data Analyst,Company - Public,-1,37,66,New York,NY,Marina del Rey,CA,0
+Junior Data Analyst,Company - Public,Finance,37,66,New York,NY,Sydney,Australia,0
+Junior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",37,66,New York,NY,Warren,MI,0
+Junior Data Analyst,Unknown,-1,37,66,New York,NY,Columbus,OH,0
+Junior Data Analyst,Company - Private,Business Services,37,66,New York,NY,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Information Technology,37,66,New York,NY,Pittsburgh,PA,0
+Junior Data Analyst,Company - Private,Health Care,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,37,66,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,37,66,New York,NY,Washington,DC,0
+Junior Data Analyst,Company - Private,Business Services,46,87,Brooklyn,NY,Seattle,WA,0
+Junior Data Analyst,Company - Private,Information Technology,46,87,Jersey City,NJ,Newtown,PA,0
+Junior Data Analyst,Contract,-1,46,87,New York,NY,Piscataway,NJ,0
+Junior Data Analyst,Company - Private,Finance,46,87,New York,NY,San Francisco,CA,0
+Junior Data Analyst,Company - Public,Finance,46,87,New York,NY,Charlotte,NC,0
+Junior Data Analyst,Company - Public,-1,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,46,87,New York,NY,Westmont,IL,0
+Junior Data Analyst,Hospital,Health Care,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Non-Profit,46,87,New York,NY,West Hollywood,CA,0
+Junior Data Analyst,Company - Private,-1,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,-1,46,87,New York,NY,Kyiv,Ukraine,0
+Junior Data Analyst,Company - Private,-1,46,87,New York,NY,Santa Monica,CA,0
+Junior Data Analyst,Company - Private,Business Services,46,87,New York,NY,Cherry Hill,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,46,87,New York,NY,Cleveland,OH,0
+Junior Data Analyst,Company - Private,Business Services,46,87,New York,NY,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Business Services,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Finance,46,87,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Public,Information Technology,46,87,New York,NY,San Jose,CA,0
+Senior Data Analyst,Company - Public,Media,46,87,New York,NY,Burbank,CA,0
+Junior Data Analyst,Company - Private,-1,46,87,New York,NY,Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,46,87,Jersey City,NJ,Sunnyvale,CA,0
+Senior Data Analyst,Company - Private,Finance,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Business Services,46,87,Weehawken,NJ,Hauppauge,NY,0
+Junior Data Analyst,Company - Public,Media,46,87,New York,NY,Burbank,CA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Real Estate,46,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Health Care,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Information Technology,51,88,New York,NY,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Information Technology,51,88,New York,NY,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Information Technology,51,88,New York,NY,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Business Services,51,88,New York,NY,Tampa,FL,0
+Junior Data Analyst,Company - Public,Information Technology,51,88,New York,NY,Paris,France,0
+Junior Data Analyst,Company - Private,Information Technology,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Finance,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,51,88,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,South Plainfield,NJ,0
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,-1,51,88,New York,NY,Colorado Springs,CO,0
+Junior Data Analyst,Company - Public,Finance,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Government,Government,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Media,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,51,88,Jersey City,NJ,Atlanta,GA,0
+Junior Data Analyst,Company - Private,-1,51,88,New York,NY,New York,NY (US),1
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,Cherry Hill,NJ,0
+Junior Data Analyst,Company - Private,-1,51,88,New York,NY,Fremont,CA,0
+Junior Data Analyst,Company - Private,Information Technology,51,88,New York,NY,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Accounting & Legal,51,88,New York,NY,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,-1,51,88,New York,NY,Dublin,Ireland,0
+Junior Data Analyst,Company - Private,Information Technology,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,51,88,New York,NY,Alexandria,VA,0
+Junior Data Analyst,Company - Private,Insurance,51,88,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Finance,51,88,New York,NY,Washington,DC,0
+Junior Data Analyst,Company - Public,Finance,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Business Services,51,87,New York,NY,Irvine,CA,0
+Junior Data Analyst,Company - Private,Information Technology,51,87,New York,NY,Irving,TX,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,51,87,Jersey City,NJ,Glen Allen,VA,0
+Junior Data Analyst,Company - Private,Business Services,51,87,New York,NY,Evanston,IL,0
+Junior Data Analyst,Company - Private,Retail,51,87,New York,NY,San Mateo,CA,0
+Junior Data Analyst,Company - Private,Business Services,51,87,New York,NY,North Brunswick,NJ,0
+Junior Data Analyst,Unknown,Health Care,51,87,Brooklyn,NY,Brooklyn,NY,1
+Junior Data Analyst,Nonprofit Organization,-1,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Consumer Services,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,51,87,New York,NY,Troy,MI,0
+Junior Data Analyst,Company - Public,Health Care,51,87,New York,NY,Charlotte,NC,0
+Junior Data Analyst,Company - Public,Finance,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Non-Profit,51,87,Long Island City,NY,New York,NY,0
+Junior Data Analyst,Company - Private,-1,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,51,87,New York,NY,Yorktown Heights,NY,0
+Junior Data Analyst,Company - Private,Information Technology,51,87,New York,NY,Northville,MI,0
+Junior Data Analyst,School / School District,-1,51,87,Brooklyn,NY,Brooklyn,NY,1
+Junior Data Analyst,Company - Private,Information Technology,51,87,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Company - Public,Finance,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Business Services,51,87,New York,NY,Menlo Park,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Information Technology,51,87,Jersey City,NJ,Paris,France,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,51,87,New York,NY,Bronx,NY,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,51,87,Florham Park,NJ,Florham Park,NJ,1
+Junior Data Analyst,Company - Private,Health Care,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Insurance,51,87,New York,NY,New York,NY,1
+Junior Data Analyst,Other Organization,Consumer Services,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Insurance,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,-1,59,85,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,59,85,New York,NY,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Information Technology,59,85,New York,NY,Armonk,NY,0
+Junior Data Analyst,Nonprofit Organization,Health Care,59,85,Manhasset,NY,Lake Success,NY,0
+Junior Data Analyst,Company - Private,Business Services,59,85,New York,NY,London,United Kingdom,0
+Junior Data Analyst,Company - Private,Information Technology,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Finance,59,85,New York,NY,Toronto,Canada,0
+Junior Data Analyst,Nonprofit Organization,Health Care,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,59,85,New York,NY,Lenexa,KS,0
+Junior Data Analyst,Contract,Business Services,59,85,Newark,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,59,85,New York,NY,Northville,MI,0
+Junior Data Analyst,Company - Private,Media,59,85,New York,NY,Cincinnati,OH,0
+Junior Data Analyst,Company - Public,"Arts, Entertainment & Recreation",59,85,Jersey City,NJ,London,United Kingdom,0
+Senior Data Analyst,Subsidiary or Business Segment,Media,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,-1,59,85,Brooklyn,NY,Baltimore,MD,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,59,85,New York,NY,Burlington,MA,0
+Junior Data Analyst,Company - Private,-1,59,85,New York,NY,Pleasantville,NY,0
+Junior Data Analyst,Company - Private,Accounting & Legal,59,85,New York,NY,Singapore,Singapore,0
+Junior Data Analyst,College / University,Education,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,59,85,New York,NY,New Brunswick,NJ,0
+Junior Data Analyst,Company - Private,Business Services,59,85,Queens Village,NY,Mumbai,India,0
+Junior Data Analyst,Nonprofit Organization,Education,59,85,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,59,85,New York,NY,Bethesda,MD,0
+Junior Data Analyst,Company - Private,Business Services,59,85,New York,NY,Yorktown Heights,NY,0
+Junior Data Analyst,Company - Public,Information Technology,59,85,New York,NY,Seattle,WA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,59,85,New York,NY,Singapore,Singapore,0
+Junior Data Analyst,Hospital,Health Care,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Health Care,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Hospital,Health Care,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,43,76,New York,NY,Dublin,OH,0
+Junior Data Analyst,Company - Private,-1,43,76,New York,NY,Bloomingdale,IL,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Hospital,Health Care,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Health Care,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Consumer Services,43,76,Newark,NJ,Louisville,KY,0
+Junior Data Analyst,Company - Private,Business Services,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,43,76,New York,NY,Dublin,OH,0
+Junior Data Analyst,Subsidiary or Business Segment,Media,43,76,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Information Technology,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Unknown,-1,43,76,Brooklyn,NY,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,43,76,New York,NY,Washington,DC,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,43,76,Brooklyn,NY,Brooklyn,NY,1
+Junior Data Analyst,Company - Private,Information Technology,43,76,Weehawken,NJ,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,43,76,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Nonprofit Organization,-1,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Finance,43,76,New York,NY,Zurich,Switzerland,0
+Junior Data Analyst,Unknown,-1,43,76,New York,NY,West Hartford,CT,0
+Junior Data Analyst,Company - Private,Business Services,43,76,Haworth,NJ,Orlando,FL,0
+Junior Data Analyst,Company - Private,Finance,43,76,Fort Lee,NJ,Fort Lee,NJ,1
+Junior Data Analyst,Company - Public,Media,43,76,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Information Technology,43,76,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,-1,43,76,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Public,Information Technology,43,76,New York,NY,Saint Louis,MO,0
+Junior Data Analyst,Company - Private,Accounting & Legal,60,110,New York,NY,Plainsboro,NJ,0
+Senior Data Analyst,Company - Private,Business Services,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,60,110,New York,NY,Somerset,NJ,0
+Junior Data Analyst,Company - Private,Business Services,60,110,New York,NY,Alexandria,VA,0
+Junior Data Analyst,Company - Private,Business Services,60,110,Jersey City,NJ,Tarrytown,NY,0
+Junior Data Analyst,Company - Public,Finance,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Non-Profit,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Business Services,60,110,New York,NY,Hauppauge,NY,0
+Junior Data Analyst,Company - Public,Finance,60,110,Weehawken,NJ,Zurich,Switzerland,0
+Junior Data Analyst,Company - Public,Media,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,60,110,New York,NY,Alexandria,VA,0
+Junior Data Analyst,Company - Public,Finance,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Health Care,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Hospital,Health Care,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,60,110,Jersey City,NJ,Sunnyvale,CA,0
+Junior Data Analyst,Company - Private,-1,60,110,South Plainfield,NJ,Allentown,PA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,60,110,New York,NY,Bronx,NY,0
+Senior Data Analyst,Company - Private,Business Services,60,110,New York,NY,Frisco,TX,0
+Senior Data Analyst,Company - Private,"Construction, Repair & Maintenance",60,110,New York,NY,Moore,OK,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,60,110,New York,NY,Bethesda,MD,0
+Senior Data Analyst,Company - Private,Business Services,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Non-Profit,60,110,New York,NY,Brooklyn,NY,0
+Junior Data Analyst,Company - Private,Information Technology,60,110,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,41,78,New York,NY,Woodridge,IL,0
+Senior Data Analyst,Company - Private,Business Services,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,41,78,New York,NY,Newark,CA,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,41,78,Bronx,NY,Bronx,NY,1
+Junior Data Analyst,Company - Private,Business Services,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Finance,41,78,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Public,Media,41,78,New York,NY,Burbank,CA,0
+Junior Data Analyst,Company - Public,Information Technology,41,78,New York,NY,Tokyo,Japan,0
+Junior Data Analyst,Company - Public,Business Services,41,78,Jersey City,NJ,Hauppauge,NY,0
+Junior Data Analyst,Company - Private,-1,41,78,New York,NY,Braga,Portugal,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Little Ferry,NJ,Little Ferry,NJ,1
+Junior Data Analyst,Company - Private,Business Services,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,-1,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Business Services,41,78,New York,NY,Richmond,VA,0
+Junior Data Analyst,Company - Public,Information Technology,41,78,Newark,NJ,Rockaway,NJ,0
+Senior Data Analyst,Company - Private,Media,41,78,New York,NY,Irvine,CA,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,Jersey City,NJ,North Brunswick,NJ,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Subsidiary or Business Segment,Health Care,41,78,Lake Success,NY,Lake Success,NY,1
+Senior Data Analyst,Company - Public,Information Technology,41,78,New York,NY,Lanham,MD,0
+Junior Data Analyst,Company - Private,-1,41,78,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Nonprofit Organization,Health Care,41,78,New York,NY,Miami Beach,FL,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Lake Success,NY,Spring,TX,0
+Senior Data Analyst,Company - Public,Finance,41,78,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Information Technology,45,88,Jersey City,NJ,Paris,France,0
+Junior Data Analyst,Nonprofit Organization,Health Care,45,88,Lake Success,NY,N New Hyde Park,NY,0
+Junior Data Analyst,Company - Public,-1,45,88,New York,NY,Durham,NC,0
+Junior Data Analyst,Company - Private,Finance,45,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Health Care,45,88,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Health Care,45,88,New York,NY,Miami Beach,FL,0
+Junior Data Analyst,Nonprofit Organization,Insurance,45,88,Newark,NJ,Newark,NJ,1
+Junior Data Analyst,College / University,Education,45,88,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Media,45,88,New York,NY,Burbank,CA,0
+Junior Data Analyst,Company - Private,Information Technology,45,88,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Company - Public,Information Technology,73,127,New York,NY,Paris,France,0
+Junior Data Analyst,Company - Private,"Arts, Entertainment & Recreation",73,127,New York,NY,Jersey City,NJ,0
+Senior Data Analyst,Company - Public,Information Technology,73,127,New York,NY,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Finance,73,127,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,73,127,New York,NY,Cleveland,OH,0
+Junior Data Analyst,Company - Private,-1,73,127,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,73,127,New York,NY,Chicago,IL,0
+Junior Data Analyst,Company - Private,Business Services,73,127,New York,NY,Monmouth Junction,NJ,0
+Junior Data Analyst,Company - Private,Business Services,73,127,Summit,NJ,Edison,NJ,0
+Junior Data Analyst,Company - Private,Business Services,73,127,New York,NY,Edison,NJ,0
+Junior Data Analyst,Nonprofit Organization,-1,73,127,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,73,127,New York,NY,Rochester,NY,0
+Junior Data Analyst,Company - Private,Accounting & Legal,84,90,New York,NY,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,84,90,New York,NY,West Windsor,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,84,90,New York,NY,Memphis,TN,0
+Junior Data Analyst,Company - Private,Information Technology,84,90,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Business Services,84,90,Haworth,NJ,Dover,DE,0
+Senior Data Analyst,Company - Public,Media,84,90,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,-1,84,90,New York,NY,Cranford,NJ,0
+Junior Data Analyst,Company - Private,Business Services,84,90,New York,NY,Herndon,VA,0
+Junior Data Analyst,Company - Private,Information Technology,84,90,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Company - Public,-1,84,90,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Nonprofit Organization,Health Care,84,90,Manhasset,NY,Lake Success,NY,0
+Junior Data Analyst,Company - Private,Information Technology,84,90,New York,NY,North Brunswick,NJ,0
+Junior Data Analyst,Company - Public,Business Services,84,90,New York,NY,London,United Kingdom,0
+Junior Data Analyst,Subsidiary or Business Segment,Health Care,84,90,Lake Success,NY,Lake Success,NY,1
+Junior Data Analyst,Company - Private,Information Technology,84,90,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Nonprofit Organization,Insurance,27,52,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,"Construction, Repair & Maintenance",27,52,Fairfield,NJ,Fairfield,NJ,1
+Junior Data Analyst,Company - Private,Health Care,27,52,New York,NY,Santa Clara,CA,0
+Senior Data Analyst,Company - Private,Information Technology,27,52,New York,NY,Duluth,GA,0
+Senior Data Analyst,Company - Public,Finance,27,52,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Finance,27,52,New York,NY,Buffalo,NY,0
+Junior Data Analyst,Company - Private,Information Technology,27,52,Brooklyn,NY,Erdenheim,PA,0
+Junior Data Analyst,Company - Public,Information Technology,27,52,New York,NY,Redwood City,CA,0
+Junior Data Analyst,Company - Private,-1,27,52,New York,NY,Calgary,Canada,0
+Senior Data Analyst,Company - Private,Business Services,27,52,New York,NY,King of Prussia,PA,0
+Senior Data Analyst,Company - Private,Health Care,27,52,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Information Technology,27,52,New York,NY,Northville,MI,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,27,52,New York,NY,Wellesley,MA,0
+Junior Data Analyst,Company - Public,Business Services,27,52,Summit,NJ,Tampa,FL,0
+Senior Data Analyst,Company - Public,Biotech & Pharmaceuticals,27,52,Berkeley Heights,NJ,London,United Kingdom,0
+Junior Data Analyst,Company - Public,Finance,27,52,Jersey City,NJ,Tokyo,Japan,0
+Junior Data Analyst,Nonprofit Organization,Health Care,27,52,New York,NY,Miami Beach,FL,0
+Junior Data Analyst,Company - Public,Finance,27,52,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Company - Public,Finance,27,52,Brooklyn,NY,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,27,52,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,27,52,Essex Fells,NJ,Holmdel,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Media,27,52,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,27,52,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,27,52,New York,NY,Iselin,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,27,52,New York,NY,North Brunswick,NJ,0
+Junior Data Analyst,Company - Public,Media,27,52,New York,NY,London,United Kingdom,0
+Junior Data Analyst,Hospital,Health Care,27,52,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",27,52,South Plainfield,NJ,South Plainfield,NJ,1
+Junior Data Analyst,Company - Private,Information Technology,27,52,Franklin Lakes,NJ,Rolling Meadows,IL,0
+Junior Data Analyst,Subsidiary or Business Segment,Health Care,42,74,Lake Success,NY,Lake Success,NY,1
+Junior Data Analyst,Company - Private,Information Technology,42,74,New York,NY,Northville,MI,0
+Junior Data Analyst,Company - Private,Business Services,42,74,New York,NY,New City,NY,0
+Junior Data Analyst,Company - Public,Finance,42,74,Newark,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Health Care,42,74,New York,NY,Fairfax,VA,0
+Senior Data Analyst,Nonprofit Organization,Non-Profit,42,74,New York,NY,New York,NY,1
+Junior Data Analyst,Nonprofit Organization,Health Care,42,74,New York,NY,Miami Beach,FL,0
+Junior Data Analyst,Company - Private,Information Technology,42,74,New York,NY,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Business Services,42,74,Mount Vernon,NY,Mosta,Malta,0
+Junior Data Analyst,Company - Private,Information Technology,42,74,Jersey City,NJ,Alpharetta,GA,0
+Senior Data Analyst,Nonprofit Organization,Insurance,42,74,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Public,Consumer Services,42,74,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Information Technology,42,74,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Information Technology,42,74,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Finance,42,74,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,-1,42,74,New York,NY,Tuxedo Park,NY,0
+Senior Data Analyst,Nonprofit Organization,Insurance,42,74,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,42,74,New York,NY,Northville,MI,0
+Junior Data Analyst,Company - Private,Information Technology,42,74,New York,NY,Northville,MI,0
+Junior Data Analyst,Company - Private,Retail,42,74,Jersey City,NJ,Jersey City,NJ,1
+Senior Data Analyst,Company - Private,Information Technology,42,74,New York,NY,Northville,MI,0
+Senior Data Analyst,Nonprofit Organization,Non-Profit,42,74,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,-1,42,74,New York,NY,New York,NY (US),1
+Junior Data Analyst,Nonprofit Organization,Insurance,42,74,Newark,NJ,Newark,NJ,1
+Junior Data Analyst,Nonprofit Organization,Health Care,42,74,Lake Success,NY,N New Hyde Park,NY,0
+Junior Data Analyst,Company - Public,Information Technology,77,132,New York,NY,Paris,France,0
+Junior Data Analyst,Nonprofit Organization,Insurance,77,132,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Business Services,77,132,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,77,132,New York,NY,London,United Kingdom,0
+Junior Data Analyst,Company - Private,Information Technology,77,132,New York,NY,Piscataway,NJ,0
+Senior Data Analyst,Company - Public,Finance,77,132,New York,NY,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,77,132,New York,NY,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Information Technology,77,132,New York,NY,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Business Services,77,132,New York,NY,Cherry Hill,NJ,0
+Senior Data Analyst,Company - Private,Information Technology,77,132,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Public,Business Services,77,132,Jersey City,NJ,Menlo Park,CA,0
+Senior Data Analyst,Nonprofit Organization,Health Care,77,132,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Public,Health Care,77,132,Secaucus,NJ,Secaucus,NJ,1
+Junior Data Analyst,Company - Public,-1,77,132,New York,NY,South Plainfield,NJ,0
+Junior Data Analyst,Company - Private,Business Services,77,132,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,77,132,New York,NY,Chicago,IL,0
+Senior Data Analyst,Company - Public,"Oil, Gas, Energy & Utilities",77,132,Brooklyn,NY,Waltham,MA,0
+Junior Data Analyst,Company - Public,-1,77,132,West Orange,NJ,Gibsonia,PA,0
+Senior Data Analyst,Subsidiary or Business Segment,Business Services,77,132,New York,NY,London,United Kingdom,0
+Junior Data Analyst,Company - Private,Information Technology,77,132,Jersey City,NJ,New York,NY,0
+Junior Data Analyst,Company - Public,Finance,77,132,Newark,NJ,New York,NY,0
+Senior Data Analyst,Company - Private,Business Services,77,132,New York,NY,Edison,NJ,0
+Senior Data Analyst,Hospital,Health Care,77,132,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,77,132,Lake Success,NY,Spring,TX,0
+Junior Data Analyst,Company - Public,-1,77,132,Long Island City,NY,Queens Village,NY,0
+Junior Data Analyst,Company - Public,Finance,77,132,Jersey City,NJ,Tokyo,Japan,0
+Senior Data Analyst,Company - Private,Finance,98,114,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,98,114,Florham Park,NJ,Northville,MI,0
+Senior Data Analyst,Company - Public,Finance,98,114,New York,NY,Atlanta,GA,0
+Junior Data Analyst,Company - Public,Finance,98,114,Florham Park,NJ,New York,NY,0
+Senior Data Analyst,Company - Private,Insurance,98,114,Woodbridge,NJ,Boston,MA,0
+Junior Data Analyst,Hospital,Health Care,98,114,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Health Care,98,114,New York,NY,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Business Services,98,114,Parsippany,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,98,114,New York,NY,South Plainfield,NJ,0
+Junior Data Analyst,Company - Public,Information Technology,98,114,New York,NY,Redwood City,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,98,114,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,98,114,Whippany,NJ,Rochester,NY,0
+Junior Data Analyst,Company - Private,Information Technology,98,114,New York,NY,LISBOA,Portugal,0
+Junior Data Analyst,Company - Private,Business Services,98,114,New York,NY,New York,NY,1
+Senior Data Analyst,Company - Private,Health Care,98,114,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Business Services,98,114,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Information Technology,98,114,New York,NY,Parsippany,NJ,0
+Junior Data Analyst,Company - Public,Finance,98,114,Florham Park,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,98,114,Jersey City,NJ,North Brunswick,NJ,0
+Junior Data Analyst,Nonprofit Organization,Health Care,98,114,Lake Success,NY,N New Hyde Park,NY,0
+Junior Data Analyst,Company - Public,-1,98,114,New York,NY,Shepton Mallet,United Kingdom,0
+Junior Data Analyst,Unknown,Business Services,98,114,New York,NY,Westfield,IN,0
+Junior Data Analyst,Company - Private,Business Services,98,114,New York,NY,Southfield,MI,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,98,114,Hoboken,NJ,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,98,114,New York,NY,Hilliard,OH,0
+Senior Data Analyst,Company - Private,Business Services,98,114,New York,NY,Alexandria,VA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,98,114,West Orange,NJ,West Orange,NJ,1
+Junior Data Analyst,Company - Private,Information Technology,98,114,New York,NY,Northville,MI,0
+Junior Data Analyst,Company - Private,Manufacturing,48,96,New York,NY,Albany,NY,0
+Senior Data Analyst,Company - Public,Information Technology,48,96,Jersey City,NJ,Paris,France,0
+Junior Data Analyst,Company - Private,Health Care,48,96,Staten Island,NY,Staten Island,NY,1
+Junior Data Analyst,Unknown,Business Services,48,96,New York,NY,Westfield,IN,0
+Senior Data Analyst,Company - Private,-1,48,96,New York,NY,Durham,United Kingdom,0
+Junior Data Analyst,Company - Private,Accounting & Legal,48,96,Harrison,NY,Plainsboro,NJ,0
+Junior Data Analyst,Company - Public,Finance,48,96,Florham Park,NJ,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,48,96,Jersey City,NJ,Garden City,NY,0
+Junior Data Analyst,Company - Private,Information Technology,48,96,New York,NY,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Finance,48,96,New York,NY,New York,NY,1
+Junior Data Analyst,Company - Private,Finance,48,96,Iselin,NJ,Iselin,NJ,1
+Junior Data Analyst,Company - Public,Information Technology,48,96,Montvale,NJ,Montvale,NJ,1
+Junior Data Analyst,Company - Private,Business Services,48,96,Woodcliff Lake,NJ,Alpharetta,GA,0
+Senior Data Analyst,Company - Private,Business Services,48,96,New York,NY,Alexandria,VA,0
+Senior Data Analyst,Company - Private,Information Technology,48,96,Brooklyn,NY,Rochester,NY,0
+Senior Data Analyst,Nonprofit Organization,Health Care,48,96,Bronx,NY,Albany,NY,0
+Junior Data Analyst,Company - Private,Business Services,48,96,Parsippany,NJ,London,United Kingdom,0
+Junior Data Analyst,Contract,-1,48,96,Franklin Lakes,NJ,Plano,TX,0
+Senior Data Analyst,Company - Private,Biotech & Pharmaceuticals,48,96,New York,NY,Chicago,IL,0
+Junior Data Analyst,Government,Government,26,47,Salt Lake City,UT,South Salt Lake,UT,0
+Junior Data Analyst,Company - Private,Manufacturing,26,47,West Jordan,UT,West Jordan,UT,1
+Junior Data Analyst,College / University,Education,26,47,Salt Lake City,UT,Salt Lake City,UT,1
+Junior Data Analyst,Company - Private,Information Technology,26,47,Salt Lake City,UT,Dallas,TX,0
+Junior Data Analyst,Company - Private,Business Services,26,47,Salt Lake City,UT,Morrisville,NC,0
+Junior Data Analyst,Company - Public,-1,26,47,Salt Lake City,UT,Alexandria,VA,0
+Junior Data Analyst,Company - Private,Business Services,26,47,Salt Lake City,UT,Farmington Hills,MI,0
+Junior Data Analyst,Company - Private,Information Technology,26,47,Lehi,UT,San Francisco,CA,0
+Junior Data Analyst,Company - Private,-1,26,47,Salt Lake City,UT,Sugar Land,TX,0
+Junior Data Analyst,Company - Private,Business Services,26,47,Salt Lake City,UT,Santa Clara,CA,0
+Junior Data Analyst,Company - Public,Finance,26,47,Salt Lake City,UT,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,26,47,Salt Lake City,UT,Herndon,VA,0
+Junior Data Analyst,Company - Private,Business Services,26,47,Salt Lake City,UT,Raleigh,NC,0
+Junior Data Analyst,Company - Private,Manufacturing,26,47,Salt Lake City,UT,Salt Lake City,UT,1
+Junior Data Analyst,Company - Private,-1,26,47,Lehi,UT,Vaughan,Canada,0
+Junior Data Analyst,Company - Public,-1,26,47,Salt Lake City,UT,Salt Lake City,UT,1
+Junior Data Analyst,Company - Private,Information Technology,26,47,Salt Lake City,UT,Farmington Hills,MI,0
+Senior Data Analyst,Company - Public,Information Technology,26,47,Salt Lake City,UT,London,United Kingdom,0
+Junior Data Analyst,Company - Private,-1,26,47,Salt Lake City,UT,Sugar Land,TX,0
+Senior Data Analyst,Company - Public,Information Technology,26,47,Draper,UT,Seattle,WA,0
+Junior Data Analyst,Company - Private,Manufacturing,26,47,Lehi,UT,Temple,GA,0
+Junior Data Analyst,Company - Private,Information Technology,26,47,American Fork,UT,Greenwood Village,CO,0
+Senior Data Analyst,Company - Private,-1,26,47,Salt Lake City,UT,Stamford,CT,0
+Junior Data Analyst,Company - Public,"Oil, Gas, Energy & Utilities",26,47,Lehi,UT,Lehi,UT,1
+Junior Data Analyst,Company - Private,Business Services,26,47,Riverton,UT,Huntsville,AL,0
+Senior Data Analyst,Company - Private,Information Technology,26,47,Draper,UT,Mountain View,CA,0
+Senior Data Analyst,Company - Private,Accounting & Legal,31,59,Salt Lake City,UT,Santa Clara,CA,0
+Junior Data Analyst,Company - Public,"Oil, Gas, Energy & Utilities",31,59,Lehi,UT,Lehi,UT,1
+Junior Data Analyst,Company - Private,Information Technology,31,59,Salt Lake City,UT,Farmington Hills,MI,0
+Junior Data Analyst,Company - Private,Business Services,31,59,Salt Lake City,UT,Southfield,MI,0
+Junior Data Analyst,Company - Public,Business Services,47,81,Reedley,CA,Menlo Park,CA,0
+Junior Data Analyst,School / School District,Education,47,81,Visalia,CA,Springville,CA,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,47,81,Hanford,CA,City of Industry,CA,0
+Junior Data Analyst,Company - Private,Aerospace & Defense,43,69,Hampton,VA,Cary,NC,0
+Junior Data Analyst,College / University,Education,43,69,Hampton,VA,Hampton,VA,1
+Junior Data Analyst,Company - Private,Business Services,43,69,Norfolk,VA,Schaumburg,IL,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,43,69,Hampton,VA,Hampton,VA,1
+Junior Data Analyst,Company - Private,Information Technology,43,69,Hampton,VA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Portsmouth,VA,Charleston,SC,0
+Junior Data Analyst,Company - Private,-1,43,69,Norfolk,VA,Duluth,GA,0
+Junior Data Analyst,Company - Private,-1,43,69,Norfolk,VA,Mc Lean,VA,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,43,69,Norfolk,VA,Norfolk,VA,1
+Junior Data Analyst,Company - Private,Information Technology,43,69,Hampton,VA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Portsmouth,VA,Charleston,SC,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Chesapeake,VA,Wilmington,NC,0
+Junior Data Analyst,Subsidiary or Business Segment,Manufacturing,43,69,Smithfield,VA,Smithfield,VA,1
+Junior Data Analyst,Company - Public,Business Services,43,69,Suffolk,VA,Mc Lean,VA,0
+Junior Data Analyst,Company - Private,Retail,43,69,Norfolk,VA,Chennai,India,0
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",43,69,Norfolk,VA,San Diego,CA,0
+Junior Data Analyst,Company - Private,Information Technology,43,69,Hampton,VA,Burlington,MA,0
+Senior Data Analyst,Company - Private,Business Services,43,69,Norfolk,VA,Reston,VA,0
+Junior Data Analyst,Company - Private,Information Technology,43,69,Hampton,VA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Accounting & Legal,43,69,Newport News,VA,Yorktown,VA,0
+Junior Data Analyst,Company - Private,Information Technology,43,69,Hampton,VA,Burlington,MA,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Portsmouth,VA,Charleston,SC,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Hampton,VA,Fort Monroe,VA,0
+Junior Data Analyst,Company - Private,Information Technology,43,69,Hampton,VA,Burlington,MA,0
+Senior Data Analyst,Company - Private,Telecommunications,43,69,Norfolk,VA,Mc Lean,VA,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Virginia Beach,VA,Herndon,VA,0
+Junior Data Analyst,Company - Private,Business Services,43,69,Hampton,VA,Hampton,VA,1
+Junior Data Analyst,Company - Private,Aerospace & Defense,43,69,Yorktown,VA,Chesapeake,VA,0
+Senior Data Analyst,Company - Private,Business Services,43,69,Portsmouth,VA,Charleston,SC,0
+Junior Data Analyst,Company - Private,Information Technology,49,112,Hampton,VA,Burlington,MA,0
+Junior Data Analyst,Company - Public,Real Estate,49,112,Chesapeake,VA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Business Services,49,112,Hampton,VA,Hampton,VA,1
+Senior Data Analyst,Company - Private,-1,49,112,Norfolk,VA,Mc Lean,VA,0
+Senior Data Analyst,Company - Private,Business Services,49,112,Norfolk,VA,Reston,VA,0
+Senior Data Analyst,Company - Private,Telecommunications,49,112,Norfolk,VA,Mc Lean,VA,0
+Senior Data Analyst,Company - Private,Business Services,49,112,Norfolk,VA,Washington,DC,0
+Junior Data Analyst,Company - Private,Business Services,49,112,Fort Eustis,VA,Alexandria,VA,0
+Senior Data Analyst,Company - Private,Business Services,49,112,Norfolk,VA,Washington,DC,0
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",49,112,Norfolk,VA,San Diego,CA,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,49,112,Norfolk,VA,Arlington,VA,0
+Junior Data Analyst,Contract,Information Technology,49,112,Norfolk,VA,Virginia Beach,VA,0
+Junior Data Analyst,Company - Public,Business Services,49,112,Chesapeake,VA,Phoenix,AZ,0
+Junior Data Analyst,Company - Private,Information Technology,49,112,Norfolk,VA,Fairfax,VA,0
+Junior Data Analyst,Company - Private,Information Technology,49,112,Norfolk,VA,Fairfax,VA,0
+Junior Data Analyst,Company - Private,Information Technology,30,54,Gainesville,FL,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,30,54,Gainesville,FL,Woodridge,IL,0
+Junior Data Analyst,College / University,Education,30,54,Gainesville,FL,Gainesville,FL,1
+Junior Data Analyst,Nonprofit Organization,Insurance,30,54,Gainesville,FL,Gainesville,FL,1
+Junior Data Analyst,Nonprofit Organization,Health Care,30,54,Alachua,FL,Jacksonville,FL,0
+Junior Data Analyst,Company - Private,Information Technology,30,54,Gainesville,FL,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,30,54,Gainesville,FL,Woodridge,IL,0
+Junior Data Analyst,Nonprofit Organization,Health Care,30,54,Gainesville,FL,Jacksonville,FL,0
+Junior Data Analyst,Company - Public,Information Technology,55,103,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Private,Information Technology,55,103,Santa Monica,CA,Santa Monica,CA,1
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Sterling,VA,0
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,New York,NY,0
+Junior Data Analyst,Self-employed,Business Services,55,103,Hermosa Beach,CA,Hermosa Beach,CA,1
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,-1,55,103,Gardena,CA,Los Angeles,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,55,103,Los Angeles,CA,Piscataway,NJ,0
+Senior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Business Services,55,103,Burbank,CA,South Jordan,UT,0
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Culver City,CA,0
+Junior Data Analyst,Company - Private,Government,55,103,Los Angeles,CA,Burlingame,CA,0
+Junior Data Analyst,Company - Private,Business Services,55,103,Los Angeles,CA,New York,NY,0
+Senior Data Analyst,Company - Private,Finance,55,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Contract,-1,55,103,Los Angeles,CA,Seattle,WA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,55,103,Los Angeles,CA,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Business Services,55,103,Culver City,CA,Troy,MI,0
+Junior Data Analyst,Company - Private,-1,55,103,Los Angeles,CA,Van Nuys,CA,0
+Junior Data Analyst,Company - Private,Business Services,55,103,Glendale,CA,Glendale,CA,1
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Centennial,CO,0
+Senior Data Analyst,Nonprofit Organization,Health Care,55,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Public,Business Services,55,103,El Segundo,CA,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Health Care,55,103,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Private,Real Estate,55,103,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Private,Media,55,103,Santa Monica,CA,Santa Monica,CA,1
+Junior Data Analyst,Company - Private,Information Technology,55,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Nonprofit Organization,Health Care,55,103,Inglewood,CA,Culver City,CA,0
+Junior Data Analyst,Nonprofit Organization,Education,37,70,Los Angeles,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Media,37,70,Glendale,CA,Vancouver,Canada,0
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",37,70,Los Angeles,CA,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Business Services,37,70,Los Angeles,CA,Berwyn,PA,0
+Junior Data Analyst,Company - Private,Information Technology,37,70,Glendale,CA,El Segundo,CA,0
+Junior Data Analyst,Company - Public,-1,37,70,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Nonprofit Organization,Health Care,37,70,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Information Technology,37,70,Venice,CA,Venice,CA,1
+Junior Data Analyst,Subsidiary or Business Segment,Finance,37,70,Pasadena,CA,Pasadena,CA,1
+Junior Data Analyst,Company - Private,-1,37,70,Pasadena,CA,Pasadena,CA,1
+Senior Data Analyst,Company - Private,Media,37,70,Santa Monica,CA,Santa Monica,CA,1
+Junior Data Analyst,Company - Private,Business Services,37,70,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,College / University,Education,37,70,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Nonprofit Organization,Business Services,37,70,Cerritos,CA,Easton,MD,0
+Junior Data Analyst,Company - Private,Consumer Services,37,70,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Public,Media,37,70,Burbank,CA,Burbank,CA,1
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",37,70,Irwindale,CA,Milton,WV,0
+Junior Data Analyst,Company - Public,Media,37,70,Los Angeles,CA,Redwood City,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,37,70,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Finance,37,70,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Subsidiary or Business Segment,Media,37,70,Burbank,CA,New York,NY,0
+Junior Data Analyst,Nonprofit Organization,Health Care,37,70,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Company - Private,Information Technology,37,70,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Government,Finance,37,70,Pasadena,CA,Pasadena,CA,1
+Junior Data Analyst,Company - Private,Media,37,70,Anaheim,CA,New York,NY,0
+Junior Data Analyst,Company - Private,-1,37,70,Burbank,CA,Burbank,CA,1
+Junior Data Analyst,Company - Public,Finance,37,70,El Segundo,CA,Melbourne,Australia,0
+Junior Data Analyst,Company - Private,Information Technology,37,70,Los Angeles,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,57,103,Irwindale,CA,Houston,TX,0
+Junior Data Analyst,Company - Public,Business Services,57,103,Los Angeles,CA,Sherman Oaks,CA,0
+Junior Data Analyst,Company - Private,Government,57,103,Los Angeles,CA,Burlingame,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,57,103,Beverly Hills,CA,Los Angeles,CA,0
+Senior Data Analyst,Company - Private,Media,57,103,Los Angeles,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,Finance,57,103,Anaheim,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,-1,57,103,Long Beach,CA,Dana Point,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,57,103,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Government,Government,57,103,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Company - Private,Information Technology,57,103,Los Angeles,CA,San Diego,CA,0
+Junior Data Analyst,Company - Public,Real Estate,57,103,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Subsidiary or Business Segment,Education,57,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Business Services,57,103,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Public,Information Technology,57,103,Los Angeles,CA,Los Gatos,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,57,103,Los Angeles,CA,Sacramento,CA,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,57,103,Northridge,CA,Tarzana,CA,0
+Junior Data Analyst,Company - Private,Business Services,57,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Information Technology,57,103,Los Angeles,CA,El Segundo,CA,0
+Junior Data Analyst,Company - Public,Business Services,57,103,Los Angeles,CA,Menlo Park,CA,0
+Senior Data Analyst,Company - Public,Media,57,103,Los Angeles,CA,New York,NY,0
+Junior Data Analyst,Nonprofit Organization,-1,57,103,Los Angeles,CA,West Roxbury,MA,0
+Junior Data Analyst,Company - Private,Media,57,103,Los Angeles,CA,Seoul,South Korea,0
+Junior Data Analyst,Company - Public,Health Care,57,103,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Company - Public,Business Services,57,103,Los Angeles,CA,Menlo Park,CA,0
+Junior Data Analyst,Company - Public,Media,57,103,El Segundo,CA,Santa Monica,CA,0
+Junior Data Analyst,Company - Private,Retail,57,103,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Information Technology,57,103,Venice,CA,Venice,CA,1
+Junior Data Analyst,Company - Private,Information Technology,35,45,Los Angeles,CA,Woodridge,IL,0
+Senior Data Analyst,Company - Private,-1,35,45,Los Angeles,CA,Austin,TX,0
+Junior Data Analyst,Nonprofit Organization,Health Care,35,45,Pasadena,CA,Oakland,CA,0
+Senior Data Analyst,Company - Private,Business Services,35,45,Los Angeles,CA,Evanston,IL,0
+Junior Data Analyst,Company - Private,Aerospace & Defense,35,45,El Segundo,CA,Goleta,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,35,45,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Business Services,35,45,Los Angeles,CA,Walnut Creek,CA,0
+Junior Data Analyst,Company - Public,-1,35,45,Pasadena,CA,Santa Clara,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,35,45,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Information Technology,35,45,Los Angeles,CA,El Segundo,CA,0
+Junior Data Analyst,Company - Public,Business Services,35,45,Los Angeles,CA,Tampa,FL,0
+Senior Data Analyst,Company - Private,-1,35,45,Alhambra,CA,Sandy,UT,0
+Junior Data Analyst,Subsidiary or Business Segment,Media,35,45,Burbank,CA,New York,NY,0
+Junior Data Analyst,Company - Public,Insurance,35,45,Long Beach,CA,Long Beach,CA,1
+Junior Data Analyst,Company - Private,Consumer Services,35,45,Santa Monica,CA,Santa Monica,CA,1
+Junior Data Analyst,Company - Private,Business Services,35,45,Los Angeles,CA,Houston,TX,0
+Junior Data Analyst,Company - Public,Information Technology,35,45,Los Angeles,CA,Armonk,NY,0
+Junior Data Analyst,Company - Private,Manufacturing,35,45,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Company - Private,Business Services,35,45,Los Angeles,CA,Santa Clara,CA,0
+Senior Data Analyst,Company - Private,Information Technology,35,45,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Public,Media,35,45,El Segundo,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Public,Insurance,35,45,Brea,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Public,Insurance,35,45,Long Beach,CA,Long Beach,CA,1
+Senior Data Analyst,Company - Private,-1,35,45,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Public,Real Estate,42,66,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Public,-1,42,66,Duarte,CA,Carson,CA,0
+Junior Data Analyst,Company - Public,Business Services,42,66,Woodland Hills,CA,Jacksonville,FL,0
+Junior Data Analyst,Company - Private,-1,42,66,Burbank,CA,Bishnupur,India,0
+Junior Data Analyst,Company - Private,Information Technology,42,66,Los Angeles,CA,El Segundo,CA,0
+Junior Data Analyst,Company - Private,-1,42,66,Monterey Park,CA,Hyderabad,India,0
+Junior Data Analyst,Company - Private,Information Technology,42,66,Burbank,CA,Overland Park,KS,0
+Junior Data Analyst,Company - Private,-1,42,66,El Segundo,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Health Care,42,66,Glendale,CA,Dayton,OH,0
+Junior Data Analyst,Company - Private,Business Services,42,66,Santa Monica,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,42,66,Pasadena,CA,New York,NY,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,42,66,Los Angeles,CA,Los Angeles,CA,1
+Senior Data Analyst,Company - Private,Consumer Services,42,66,Pasadena,CA,Fremont,CA,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,42,66,Woodland Hills,CA,Falls Church,VA,0
+Junior Data Analyst,Company - Private,Business Services,42,66,Burbank,CA,South Jordan,UT,0
+Junior Data Analyst,Company - Private,Information Technology,42,66,Los Angeles,CA,Brea,CA,0
+Junior Data Analyst,Company - Private,Media,42,66,Culver City,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Public,Information Technology,42,66,Culver City,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Information Technology,42,66,Cerritos,CA,Williamsville,NY,0
+Junior Data Analyst,Company - Private,-1,42,66,Burbank,CA,Bishnupur,India,0
+Junior Data Analyst,Company - Private,Retail,42,66,Marina del Rey,CA,Marina del Rey,CA,1
+Junior Data Analyst,Company - Private,-1,42,66,Long Beach,CA,Singapore,Singapore,0
+Senior Data Analyst,Company - Private,Information Technology,42,66,Culver City,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,-1,42,66,Arcadia,CA,Noida,India,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,42,66,Beverly Hills,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Public,Retail,42,66,Torrance,CA,Carson,CA,0
+Junior Data Analyst,Company - Private,Information Technology,42,66,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Public,-1,42,66,Panorama City,CA,Panorama City,CA,1
+Junior Data Analyst,Company - Public,Insurance,42,66,Long Beach,CA,Long Beach,CA,1
+Senior Data Analyst,Company - Private,Business Services,65,81,Glendale,CA,Glendale,CA,1
+Junior Data Analyst,Company - Private,Manufacturing,65,81,Long Beach,CA,Danbury,CT,0
+Junior Data Analyst,Company - Public,Health Care,65,81,Alhambra,CA,Alhambra,CA,1
+Junior Data Analyst,Company - Private,Business Services,65,81,Azusa,CA,Anaheim,CA,0
+Junior Data Analyst,Company - Private,Business Services,65,81,Burbank,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Business Services,65,81,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Public,Manufacturing,65,81,Marina del Rey,CA,London,United Kingdom,0
+Junior Data Analyst,Nonprofit Organization,Insurance,65,81,Woodland Hills,CA,Oakland,CA,0
+Junior Data Analyst,Company - Public,Manufacturing,65,81,Long Beach,CA,Radnor,PA,0
+Junior Data Analyst,Company - Public,Finance,65,81,El Segundo,CA,New York,NY,0
+Junior Data Analyst,Company - Public,Retail,65,81,Cerritos,CA,Cerritos,CA,1
+Junior Data Analyst,Company - Private,-1,65,81,Cerritos,CA,Alpharetta,GA,0
+Junior Data Analyst,Company - Public,-1,65,81,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Nonprofit Organization,Education,65,81,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Private,Business Services,65,81,Glendale,CA,Houston,TX,0
+Senior Data Analyst,Company - Public,Finance,65,81,El Segundo,CA,New York,NY,0
+Junior Data Analyst,Company - Private,-1,65,81,Burbank,CA,Burbank,CA,1
+Junior Data Analyst,Nonprofit Organization,Insurance,65,81,Long Beach,CA,Long Beach,CA,1
+Senior Data Analyst,Company - Private,Media,65,81,Santa Monica,CA,Santa Monica,CA,1
+Junior Data Analyst,Company - Public,Insurance,65,81,Long Beach,CA,Long Beach,CA,1
+Junior Data Analyst,Company - Private,Manufacturing,65,81,Los Angeles,CA,Bolton,CT,0
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",65,81,City of Industry,CA,City of Industry,CA,1
+Senior Data Analyst,Company - Private,-1,65,81,El Segundo,CA,Los Angeles,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,113,132,Arcadia,CA,Arcadia,CA,1
+Junior Data Analyst,Company - Private,-1,113,132,City of Industry,CA,Taipei,Taiwan,0
+Junior Data Analyst,Company - Public,-1,113,132,Los Angeles,CA,Canoga Park,CA,0
+Junior Data Analyst,Company - Private,-1,113,132,Los Angeles,CA,Boca Raton,FL,0
+Junior Data Analyst,Company - Private,Business Services,113,132,Santa Monica,CA,San Mateo,CA,0
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",113,132,City of Industry,CA,City of Industry,CA,1
+Junior Data Analyst,Company - Private,Accounting & Legal,113,132,Burbank,CA,Singapore,Singapore,0
+Junior Data Analyst,Company - Private,-1,113,132,Burbank,CA,Bishnupur,India,0
+Junior Data Analyst,Nonprofit Organization,Insurance,113,132,Long Beach,CA,Long Beach,CA,1
+Junior Data Analyst,Company - Private,Business Services,113,132,Woodland Hills,CA,Glendale,CA,0
+Junior Data Analyst,Company - Private,Business Services,113,132,El Segundo,CA,El Segundo,CA,1
+Junior Data Analyst,Company - Private,Accounting & Legal,113,132,Arcadia,CA,Plainsboro,NJ,0
+Senior Data Analyst,Nonprofit Organization,Insurance,113,132,Woodland Hills,CA,Oakland,CA,0
+Junior Data Analyst,Company - Private,Information Technology,113,132,Burbank,CA,Chicago,IL,0
+Junior Data Analyst,Company - Public,Media,113,132,Burbank,CA,Burbank,CA,1
+Senior Data Analyst,Nonprofit Organization,Health Care,113,132,Gardena,CA,Renton,WA,0
+Junior Data Analyst,Company - Public,Insurance,113,132,Long Beach,CA,Long Beach,CA,1
+Junior Data Analyst,Company - Public,Insurance,113,132,Long Beach,CA,Long Beach,CA,1
+Junior Data Analyst,Nonprofit Organization,-1,113,132,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Subsidiary or Business Segment,Media,113,132,Burbank,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,113,132,Woodland Hills,CA,Glendale,CA,0
+Junior Data Analyst,Company - Private,Business Services,113,132,Santa Monica,CA,Santa Barbara,CA,0
+Junior Data Analyst,Company - Private,Business Services,113,132,Pico Rivera,CA,San Clemente,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,113,132,Whittier,CA,Whittier,CA,1
+Junior Data Analyst,Company - Private,Information Technology,113,132,Los Angeles,CA,Los Angeles,CA,1
+Junior Data Analyst,Company - Public,Insurance,113,132,Brea,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Public,Finance,60,66,Chicago,IL,Rosemont,IL,0
+Junior Data Analyst,Company - Private,"Arts, Entertainment & Recreation",60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,60,66,Chicago,IL,Kennesaw,GA,0
+Junior Data Analyst,Company - Private,Business Services,60,66,Chicago,IL,Dayton,OH,0
+Junior Data Analyst,Company - Private,Health Care,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,Business Services,60,66,Downers Grove,IL,Troy,MI,0
+Junior Data Analyst,Company - Public,Business Services,60,66,Chicago,IL,Troy,MI,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,60,66,Chicago,IL,New York,NY,0
+Junior Data Analyst,Company - Private,Manufacturing,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,Information Technology,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Transportation & Logistics,60,66,Chicago,IL,Fort Wayne,IN,0
+Junior Data Analyst,College / University,Education,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,60,66,Chicago,IL,New York,NY,0
+Junior Data Analyst,Company - Private,-1,60,66,Chicago,IL,Langhorne,PA,0
+Junior Data Analyst,Company - Private,Business Services,60,66,Downers Grove,IL,Chicago,IL,0
+Junior Data Analyst,Company - Private,Business Services,60,66,Downers Grove,IL,Chicago,IL,0
+Junior Data Analyst,Company - Private,Manufacturing,60,66,Broadview,IL,Farmington Hills,MI,0
+Junior Data Analyst,Company - Private,Finance,60,66,Chicago,IL,Washington,DC,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,60,66,Chicago,IL,Itasca,IL,0
+Junior Data Analyst,Contract,Information Technology,60,66,Chicago,IL,Park Ridge,IL,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,60,66,Downers Grove,IL,Glendale,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Manufacturing,60,66,Broadview,IL,Mount Prospect,IL,0
+Junior Data Analyst,School / School District,Education,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Government,Government,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Private Practice / Firm,Finance,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,60,66,Chicago,IL,Seattle,WA,0
+Junior Data Analyst,Company - Public,Finance,60,66,Chicago,IL,Toronto,Canada,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,60,66,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Aliso Viejo,CA,0
+Junior Data Analyst,Company - Private,Health Care,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,Manufacturing,73,82,Woodridge,IL,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Nonprofit Organization,Health Care,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,73,82,Chicago,IL,Hanover,MD,0
+Junior Data Analyst,Company - Private,-1,73,82,Chicago,IL,Gardena,CA,0
+Senior Data Analyst,Company - Public,Manufacturing,73,82,Chicago,IL,Muscatine,IA,0
+Junior Data Analyst,Company - Public,Business Services,73,82,Downers Grove,IL,Berea,OH,0
+Junior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Woodridge,IL,0
+Senior Data Analyst,Company - Private,Transportation & Logistics,73,82,Chicago,IL,San Francisco,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,73,82,Downers Grove,IL,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Business Services,73,82,Chicago,IL,East Thetford,VT,0
+Junior Data Analyst,Unknown,-1,73,82,Chicago,IL,KIRKLAND,Canada,0
+Junior Data Analyst,Company - Private,Media,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Government,Government,73,82,Chicago,IL,Chicago,IL,1
+Senior Data Analyst,Company - Private,-1,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,73,82,Chicago,IL,Itasca,IL,0
+Junior Data Analyst,School / School District,Education,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,-1,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Rolling Meadows,IL,0
+Senior Data Analyst,Company - Private,Information Technology,73,82,Chicago,IL,Ottawa,Canada,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,73,82,Chicago,IL,Hanover,MD,0
+Senior Data Analyst,Nonprofit Organization,Non-Profit,73,82,Chicago,IL,New Haven,CT,0
+Senior Data Analyst,Company - Private,Finance,73,82,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",67,92,Burr Ridge,IL,South Holland,IL,0
+Junior Data Analyst,Company - Private,Accounting & Legal,67,92,Chicago,IL,Plainsboro,NJ,0
+Junior Data Analyst,Hospital,Health Care,67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,67,92,Chicago,IL,Millersville,MD,0
+Junior Data Analyst,Nonprofit Organization,Finance,67,92,Rolling Meadows,IL,Chicago,IL,0
+Junior Data Analyst,Company - Private,Business Services,67,92,Chicago,IL,New York,NY,0
+Senior Data Analyst,College / University,Education,67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Nonprofit Organization,-1,67,92,Chicago,IL,Detroit,MI,0
+Junior Data Analyst,Private Practice / Firm,Accounting & Legal,67,92,Deerfield,IL,Deerfield Beach,FL,0
+Junior Data Analyst,Company - Public,Finance,67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,67,92,Chicago,IL,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,67,92,Chicago,IL,Singapore,Singapore,0
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Accounting & Legal,67,92,Chicago,IL,London,United Kingdom,0
+Junior Data Analyst,Franchise,"Construction, Repair & Maintenance",67,92,Chicago,IL,Seattle,WA,0
+Junior Data Analyst,Company - Private,Manufacturing,67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,67,92,Chicago,IL,Raleigh,NC,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,67,92,Chicago,IL,Philadelphia,PA,0
+Senior Data Analyst,Company - Private,Information Technology,67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,67,92,Chicago,IL,New York,NY,0
+Junior Data Analyst,Company - Private,Retail,67,92,Northlake,IL,Northlake,IL,1
+Junior Data Analyst,Company - Private,Information Technology,67,92,Northbrook,IL,Dublin,OH,0
+Junior Data Analyst,Company - Private,Information Technology,67,92,Chicago,IL,New York,NY,0
+Junior Data Analyst,Company - Public,Finance,67,92,Chicago,IL,Toronto,Canada,0
+Senior Data Analyst,Company - Private,Accounting & Legal,67,92,Chicago,IL,New York,NY,0
+Junior Data Analyst,Subsidiary or Business Segment,-1,67,92,Des Plaines,IL,Philadelphia,PA,0
+Senior Data Analyst,Company - Private,Finance,67,92,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,67,92,Itasca,IL,Itasca,IL,1
+Junior Data Analyst,Company - Public,Business Services,42,76,Chicago,IL,London,United Kingdom,0
+Junior Data Analyst,Company - Public,Business Services,42,76,Evanston,IL,Tampa,FL,0
+Junior Data Analyst,Company - Private,Non-Profit,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,42,76,Northbrook,IL,Houston,TX,0
+Junior Data Analyst,Company - Private,-1,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Manufacturing,42,76,Bridgeview,IL,Bridgeview,IL,1
+Senior Data Analyst,Company - Public,Biotech & Pharmaceuticals,42,76,Chicago,IL,Waltham,MA,0
+Junior Data Analyst,Company - Private,Business Services,42,76,Downers Grove,IL,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Manufacturing,42,76,Oak Brook,IL,Oak Brook,IL,1
+Junior Data Analyst,Company - Private,Business Services,42,76,Chicago,IL,London,United Kingdom,0
+Senior Data Analyst,School / School District,Education,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Chicago,IL,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,42,76,Northbrook,IL,Somerset,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,42,76,Woodridge,IL,San Francisco,CA,0
+Senior Data Analyst,Nonprofit Organization,Health Care,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,"Restaurants, Bars & Food Services",42,76,Oak Brook,IL,Saint Paul,MN,0
+Junior Data Analyst,College / University,Education,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,Finance,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,42,76,Chicago,IL,Chicago,IL,1
+Senior Data Analyst,School / School District,Education,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,-1,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,Finance,42,76,Downers Grove,IL,Burr Ridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,42,76,Chicago,IL,Rochester,NY,0
+Junior Data Analyst,School / School District,Education,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Chicago,IL,Woodridge,IL,0
+Senior Data Analyst,Company - Private,Finance,42,76,Chicago,IL,Irvine,CA,0
+Junior Data Analyst,Company - Private,Finance,42,76,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,Boston,MA,0
+Junior Data Analyst,Company - Private,Information Technology,97,129,Chicago,IL,Encinitas,CA,0
+Junior Data Analyst,Company - Private,Information Technology,97,129,Chicago,IL,Rolling Meadows,IL,0
+Junior Data Analyst,Company - Private,Information Technology,97,129,Chicago,IL,Norcross,GA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,97,129,Maywood,IL,Livonia,MI,0
+Junior Data Analyst,Company - Public,Information Technology,97,129,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Manufacturing,97,129,Northfield,IL,Northfield,IL,1
+Junior Data Analyst,Company - Public,Information Technology,97,129,Chicago,IL,Paris,France,0
+Senior Data Analyst,Company - Private,Biotech & Pharmaceuticals,97,129,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Subsidiary or Business Segment,Manufacturing,97,129,Glenview,IL,Glenview,IL,1
+Junior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,Frisco,TX,0
+Junior Data Analyst,Company - Private,Health Care,97,129,Chicago,IL,Iowa City,IA,0
+Junior Data Analyst,Company - Public,Business Services,97,129,Chicago,IL,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,London,United Kingdom,0
+Senior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,Lincolnshire,IL,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,97,129,Chicago,IL,Chicago,IL,1
+Senior Data Analyst,Company - Public,Retail,97,129,Deerfield,IL,Deerfield,IL,1
+Senior Data Analyst,Company - Private,Finance,97,129,Chicago,IL,Washington,DC,0
+Junior Data Analyst,Company - Private,Business Services,97,129,Elk Grove Village,IL,Elk Grove Village,IL,1
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,97,129,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,-1,97,129,Rolling Meadows,IL,Seattle,WA,0
+Junior Data Analyst,Company - Public,-1,97,129,Chicago,IL,Saint Louis,MO,0
+Senior Data Analyst,Company - Public,-1,97,129,Chicago,IL,Chicago,IL,1
+Senior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,Millersville,MD,0
+Junior Data Analyst,Company - Private,Business Services,97,129,Chicago,IL,Chicago,IL,1
+Senior Data Analyst,Company - Private,Transportation & Logistics,97,129,Chicago,IL,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Business Services,68,87,Chicago,IL,Millersville,MD,0
+Junior Data Analyst,College / University,Health Care,68,87,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Public,Insurance,68,87,Chicago,IL,Saint Louis,MO,0
+Junior Data Analyst,College / University,Education,68,87,Chicago,IL,Chicago,IL,1
+Junior Data Analyst,Company - Private,Business Services,68,87,Chicago,IL,Pittsburgh,PA,0
+Junior Data Analyst,Company - Private,Information Technology,68,87,Chicago,IL,Singapore,Singapore,0
+Junior Data Analyst,Company - Public,Retail,68,87,Chicago,IL,Salisbury,NC,0
+Junior Data Analyst,Company - Private,Information Technology,68,87,Chicago,IL,Somerset,NJ,0
+Junior Data Analyst,Company - Private,Accounting & Legal,68,87,Chicago,IL,Des Plaines,IL,0
+Junior Data Analyst,Company - Private,Accounting & Legal,68,87,Arlington Heights,IL,Plainsboro,NJ,0
+Junior Data Analyst,Company - Public,Retail,68,87,Deerfield,IL,Deerfield,IL,1
+Junior Data Analyst,Company - Public,Finance,68,87,Downers Grove,IL,Pittsburgh,PA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,68,87,Chicago,IL,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Business Services,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Finance,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Self-employed,Accounting & Legal,29,38,Houston,TX,Clinton,MD,0
+Junior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",29,38,Houston,TX,Warren,MI,0
+Junior Data Analyst,Company - Public,Telecommunications,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Manufacturing,29,38,Stafford,TX,Stafford,TX,1
+Junior Data Analyst,Company - Private,Business Services,29,38,Houston,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Government,Health Care,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Real Estate,29,38,Houston,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Accounting & Legal,29,38,Houston,TX,Ridgeland,MS,0
+Junior Data Analyst,Company - Public,Finance,29,38,Houston,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Private Practice / Firm,Health Care,29,38,Pearland,TX,Pearland,TX,1
+Junior Data Analyst,Company - Private,Information Technology,29,38,Stafford,TX,Stafford,TX,1
+Junior Data Analyst,Company - Private,Business Services,29,38,Houston,TX,Upland,CA,0
+Junior Data Analyst,Government,Government,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",29,38,Houston,TX,Stans,Switzerland,0
+Junior Data Analyst,Company - Public,-1,29,38,Houston,TX,Houston,TX,1
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,29,38,Houston,TX,Atlanta,GA,0
+Junior Data Analyst,Company - Private,-1,29,38,Houston,TX,Stavanger,Norway,0
+Junior Data Analyst,Company - Public,Finance,29,38,Houston,TX,Jacksonville,FL,0
+Junior Data Analyst,Company - Private,Business Services,29,38,Houston,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,29,38,Houston,TX,Orem,UT,0
+Junior Data Analyst,Company - Private,Accounting & Legal,29,38,Houston,TX,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,29,38,Houston,TX,Bengaluru,India,0
+Junior Data Analyst,Company - Private,Information Technology,47,76,Houston,TX,Edison,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,47,76,Houston,TX,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,47,76,Houston,TX,Pittsburgh,PA,0
+Junior Data Analyst,Subsidiary or Business Segment,Health Care,47,76,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Information Technology,47,76,Houston,TX,Bengaluru,India,0
+Junior Data Analyst,Company - Private,-1,47,76,Houston,TX,Arlington Heights,IL,0
+Junior Data Analyst,Company - Private,Information Technology,47,76,Houston,TX,Atlanta,GA,0
+Junior Data Analyst,Company - Public,Information Technology,47,76,Houston,TX,Paris,France,0
+Junior Data Analyst,Company - Public,Business Services,47,76,Houston,TX,Fairfax,VA,0
+Junior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",47,76,Houston,TX,Warren,MI,0
+Junior Data Analyst,Company - Private,Business Services,47,76,Houston,TX,Sugar Land,TX,0
+Junior Data Analyst,Company - Private,-1,47,76,Houston,TX,Cypress,TX,0
+Junior Data Analyst,Company - Private,-1,47,76,Houston,TX,Greenville,SC,0
+Junior Data Analyst,Company - Public,Business Services,47,76,Houston,TX,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Business Services,47,76,Houston,TX,Upland,CA,0
+Junior Data Analyst,Company - Private,Business Services,47,76,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Retail,47,76,Houston,TX,Houston,TX,1
+Senior Data Analyst,Government,Health Care,47,76,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Information Technology,47,76,Houston,TX,Nashua,NH,0
+Junior Data Analyst,Government,Government,47,76,Houston,TX,Fort Knox,KY,0
+Junior Data Analyst,Company - Public,Insurance,47,76,Houston,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Business Services,47,76,Houston,TX,Farmington Hills,MI,0
+Junior Data Analyst,Company - Public,-1,47,76,Sugar Land,TX,Carrollton,TX,0
+Junior Data Analyst,Company - Private,Business Services,47,76,Pasadena,TX,Millersville,MD,0
+Junior Data Analyst,Company - Public,Insurance,47,76,Houston,TX,Saint Louis,MO,0
+Junior Data Analyst,Company - Private,Finance,47,76,Houston,TX,Houston,TX,1
+Junior Data Analyst,Private Practice / Firm,Health Care,47,76,Pearland,TX,Pearland,TX,1
+Junior Data Analyst,Government,Health Care,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,Newport,RI,0
+Junior Data Analyst,Company - Private,Media,74,123,Houston,TX,Lombard,IL,0
+Senior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,New York,061,0
+Junior Data Analyst,Company - Private,Information Technology,74,123,Houston,TX,Pittsburgh,PA,0
+Junior Data Analyst,Company - Public,Telecommunications,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Information Technology,74,123,Houston,TX,Cary,NC,0
+Junior Data Analyst,Company - Private,Information Technology,74,123,Houston,TX,Houston,TX,1
+Senior Data Analyst,Private Practice / Firm,Health Care,74,123,Pearland,TX,Pearland,TX,1
+Junior Data Analyst,Company - Private,-1,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,College / University,Education,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Public,Finance,74,123,Houston,TX,New York,NY,0
+Junior Data Analyst,Private Practice / Firm,Health Care,74,123,Pearland,TX,Pearland,TX,1
+Junior Data Analyst,Company - Private,Health Care,74,123,Houston,TX,El Segundo,CA,0
+Junior Data Analyst,Unknown,Business Services,74,123,Spring,TX,Pearland,TX,0
+Junior Data Analyst,Private Practice / Firm,Health Care,74,123,Pearland,TX,Pearland,TX,1
+Junior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,Orlando,FL,0
+Junior Data Analyst,Company - Private,Business Services,74,123,Sugar Land,TX,Irvine,CA,0
+Junior Data Analyst,Contract,Business Services,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,South Plainfield,NJ,0
+Junior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,Herndon,VA,0
+Junior Data Analyst,Company - Private,Business Services,74,123,Houston,TX,Fremont,CA,0
+Junior Data Analyst,Company - Private,-1,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Nonprofit Organization,Finance,74,123,Sugar Land,TX,Lake Jackson,TX,0
+Junior Data Analyst,Company - Private,Information Technology,74,123,Houston,TX,Bengaluru,India,0
+Junior Data Analyst,Government,Government,74,123,Houston,TX,Houston,TX,1
+Junior Data Analyst,Company - Public,Finance,53,94,Tempe,AZ,Tokyo,Japan,0
+Senior Data Analyst,Company - Private,Information Technology,53,94,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Public,Finance,53,94,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Private,"Construction, Repair & Maintenance",53,94,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Private,Business Services,53,94,Phoenix,AZ,Wayne,PA,0
+Senior Data Analyst,Company - Private,Retail,53,94,Scottsdale,AZ,Scottsdale,AZ,1
+Junior Data Analyst,Company - Public,Finance,53,94,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Public,Business Services,53,94,Phoenix,AZ,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Business Services,53,94,Phoenix,AZ,King of Prussia,PA,0
+Junior Data Analyst,Company - Public,Telecommunications,53,94,Phoenix,AZ,Carlsbad,CA,0
+Junior Data Analyst,Company - Private,Education,53,94,Scottsdale,AZ,Scottsdale,AZ,1
+Junior Data Analyst,Company - Public,Business Services,53,94,Phoenix,AZ,Jacksonville,FL,0
+Junior Data Analyst,Company - Private,Business Services,53,94,Tempe,AZ,Raleigh,NC,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,53,94,Phoenix,AZ,Zurich,Switzerland,0
+Junior Data Analyst,Company - Private,Business Services,53,94,Phoenix,AZ,North York,Canada,0
+Junior Data Analyst,Company - Private,Information Technology,53,94,Tempe,AZ,Princeton,NJ,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,53,94,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Private,-1,53,94,Scottsdale,AZ,Scottsdale,AZ,1
+Junior Data Analyst,Company - Public,Manufacturing,53,94,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Public,Finance,53,94,Phoenix,AZ,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Information Technology,53,94,Tempe,AZ,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Education,53,94,Scottsdale,AZ,Scottsdale,AZ,1
+Junior Data Analyst,Company - Public,Finance,53,94,Tempe,AZ,Tokyo,Japan,0
+Junior Data Analyst,Company - Public,Finance,53,94,Tempe,AZ,Tokyo,Japan,0
+Senior Data Analyst,Other Organization,Finance,53,94,Glendale,AZ,Anchorage,AK,0
+Junior Data Analyst,Company - Public,Finance,53,94,Scottsdale,AZ,SUNDERLAND,United Kingdom,0
+Junior Data Analyst,Company - Public,Information Technology,53,94,Tempe,AZ,Seattle,WA,0
+Junior Data Analyst,Company - Private,-1,46,102,Phoenix,AZ,North Brunswick,NJ,0
+Junior Data Analyst,Company - Private,-1,46,102,Tempe,AZ,Tempe,AZ,1
+Junior Data Analyst,College / University,Education,46,102,Tempe,AZ,Tempe,AZ,1
+Junior Data Analyst,Company - Private,Information Technology,46,102,Phoenix,AZ,Portland,OR,0
+Junior Data Analyst,Company - Private,Business Services,46,102,Phoenix,AZ,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,46,102,Tempe,AZ,Chandler,AZ,0
+Junior Data Analyst,Company - Public,Retail,46,102,Tempe,AZ,Tempe,AZ,1
+Senior Data Analyst,Company - Private,Manufacturing,46,102,Phoenix,AZ,Phoenix,AZ,1
+Senior Data Analyst,Company - Private,Business Services,46,102,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Private,Business Services,46,102,Chandler,AZ,Canton,MI,0
+Junior Data Analyst,Company - Public,Retail,46,102,Phoenix,AZ,Springfield,MO,0
+Junior Data Analyst,Company - Private,-1,46,102,Phoenix,AZ,Sanford,VA,0
+Junior Data Analyst,Company - Public,Transportation & Logistics,46,102,Phoenix,AZ,Reno,NV,0
+Junior Data Analyst,Company - Public,Finance,46,102,Tempe,AZ,Tokyo,Japan,0
+Junior Data Analyst,Company - Private,Health Care,46,102,Scottsdale,AZ,Scottsdale,AZ,1
+Junior Data Analyst,Company - Private,Business Services,46,102,Tempe,AZ,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Business Services,46,102,Phoenix,AZ,Irvine,CA,0
+Senior Data Analyst,Company - Private,Information Technology,46,102,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Private,Information Technology,46,102,Tempe,AZ,Dublin,OH,0
+Junior Data Analyst,Company - Private,Information Technology,46,102,Mesa,AZ,Irvine,CA,0
+Junior Data Analyst,Company - Private,Finance,46,102,Scottsdale,AZ,Malvern,PA,0
+Junior Data Analyst,Company - Private,Insurance,46,102,Tempe,AZ,Bellevue,WA,0
+Junior Data Analyst,Company - Private,Health Care,46,102,Phoenix,AZ,Nashville,TN,0
+Senior Data Analyst,Company - Private,"Construction, Repair & Maintenance",46,102,Chandler,AZ,South Holland,IL,0
+Junior Data Analyst,Company - Private,-1,46,102,Phoenix,AZ,Nashville,TN,0
+Senior Data Analyst,Company - Private,Information Technology,46,102,Phoenix,AZ,Metuchen,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,46,102,Phoenix,AZ,Troy,MI,0
+Junior Data Analyst,Company - Private,Business Services,43,94,Tempe,AZ,Raleigh,NC,0
+Junior Data Analyst,Company - Private,Business Services,43,94,Phoenix,AZ,King of Prussia,PA,0
+Junior Data Analyst,Company - Private,Information Technology,43,94,Phoenix,AZ,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Business Services,43,94,DC Ranch,AZ,Honolulu,HI,0
+Junior Data Analyst,Company - Public,Business Services,43,94,Phoenix,AZ,Moon Township,PA,0
+Junior Data Analyst,Company - Private,Information Technology,43,94,Tempe,AZ,Cranbury,NJ,0
+Junior Data Analyst,Company - Private,Business Services,43,94,Chandler,AZ,Canton,MI,0
+Junior Data Analyst,Company - Private,-1,43,94,Scottsdale,AZ,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,43,94,Scottsdale,AZ,Schaumburg,IL,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,43,94,Tempe,AZ,Orlando,FL,0
+Junior Data Analyst,Company - Public,Retail,43,94,Tempe,AZ,Tempe,AZ,1
+Junior Data Analyst,Company - Private,Business Services,43,94,Chandler,AZ,Fort Lauderdale,FL,0
+Junior Data Analyst,Company - Public,Finance,43,94,Tempe,AZ,Tokyo,Japan,0
+Junior Data Analyst,Company - Private,Information Technology,43,94,Phoenix,AZ,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Business Services,43,94,Tempe,AZ,Wayne,PA,0
+Junior Data Analyst,Company - Public,Insurance,43,94,Scottsdale,AZ,Santa Ana,CA,0
+Junior Data Analyst,Company - Private,Business Services,43,94,Glendale,AZ,South Portland,ME,0
+Junior Data Analyst,Company - Private,Business Services,43,94,Scottsdale,AZ,Scottsdale,AZ,1
+Junior Data Analyst,Company - Public,Business Services,43,94,Chandler,AZ,Edmonton,Canada,0
+Junior Data Analyst,Company - Private,Insurance,43,94,Glendale,AZ,Walnut Creek,CA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,43,94,Tempe,AZ,Tempe,AZ,1
+Junior Data Analyst,Company - Private,-1,43,94,Phoenix,AZ,Alpharetta,GA,0
+Junior Data Analyst,Company - Public,Business Services,43,94,Chandler,AZ,Tampa,FL,0
+Senior Data Analyst,Company - Private,Business Services,43,94,Chandler,AZ,San Diego,CA,0
+Junior Data Analyst,Company - Private,Business Services,45,78,Mesa,AZ,Fremont,CA,0
+Junior Data Analyst,Company - Private,Business Services,45,78,Tempe,AZ,Dallas,TX,0
+Junior Data Analyst,Company - Private,Information Technology,45,78,DC Ranch,AZ,Chantilly,VA,0
+Senior Data Analyst,Company - Public,Retail,45,78,Tempe,AZ,Tempe,AZ,1
+Junior Data Analyst,Company - Private,-1,45,78,Tempe,AZ,Dallas,TX,0
+Junior Data Analyst,Nonprofit Organization,Insurance,45,78,Phoenix,AZ,Phoenix,AZ,1
+Junior Data Analyst,Company - Private,Information Technology,45,78,Scottsdale,AZ,Rochester,NY,0
+Junior Data Analyst,Company - Public,Finance,45,78,Tempe,AZ,Tokyo,Japan,0
+Junior Data Analyst,Company - Private,-1,45,78,Tempe,AZ,Tempe,AZ,1
+Junior Data Analyst,Company - Private,Business Services,45,78,Tempe,AZ,New York,NY,0
+Senior Data Analyst,Company - Public,Health Care,45,78,Scottsdale,AZ,Woonsocket,RI,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,King of Prussia,PA,King of Prussia,PA,1
+Junior Data Analyst,Nonprofit Organization,Health Care,41,78,Plymouth Meeting,PA,Plymouth Meeting,PA,1
+Junior Data Analyst,Other Organization,Biotech & Pharmaceuticals,41,78,Blue Bell,PA,Blue Bell,PA,1
+Junior Data Analyst,Company - Private,Real Estate,41,78,Fort Washington,PA,Chicago,IL,0
+Junior Data Analyst,Company - Private,Health Care,41,78,Philadelphia,PA,Phila,PA,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Business Services,41,78,Philadelphia,PA,Chantilly,VA,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Wilmington,DE,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Malvern,PA,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Information Technology,41,78,Philadelphia,PA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Business Services,41,78,Philadelphia,PA,Pasadena,CA,0
+Junior Data Analyst,Company - Private,-1,41,78,Horsham,PA,King of Prussia,PA,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Camden,NJ,Wayne,PA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,41,78,Philadelphia,PA,Glen Allen,VA,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,Philadelphia,PA,Holmdel,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,41,78,Philadelphia,PA,Vienna,VA,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,41,78,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Information Technology,41,78,Philadelphia,PA,Basking Ridge,NJ,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Feasterville Trevose,PA,New York,NY,0
+Junior Data Analyst,College / University,Education,41,78,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Telecommunications,41,78,Feasterville Trevose,PA,Langhorne,PA,0
+Junior Data Analyst,Company - Private,Mining & Metals,41,78,Camden,NJ,Warrington,United Kingdom,0
+Junior Data Analyst,Company - Private,Accounting & Legal,41,78,Philadelphia,PA,London,United Kingdom,0
+Junior Data Analyst,Company - Private,Business Services,41,78,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Public,Business Services,41,78,Philadelphia,PA,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Information Technology,38,68,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Nonprofit Organization,Health Care,38,68,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,College / University,Education,38,68,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Insurance,38,68,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Hospital,Health Care,38,68,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Unknown,-1,38,68,Philadelphia,PA,Smithfield,RI,0
+Junior Data Analyst,Company - Public,Finance,38,68,Wilmington,DE,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,38,68,Philadelphia,PA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,38,68,Radnor,PA,Radnor,PA,1
+Junior Data Analyst,Company - Private,Health Care,38,68,West Conshohocken,PA,West Conshohocken,PA,1
+Junior Data Analyst,College / University,Education,38,68,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Public,Information Technology,38,68,Malvern,PA,Salem,NH,0
+Junior Data Analyst,Company - Public,Information Technology,38,68,King of Prussia,PA,Nashville,TN,0
+Junior Data Analyst,Company - Private,Media,38,68,Wayne,PA,Wayne,PA,1
+Junior Data Analyst,Company - Private,Business Services,38,68,Wilmington,DE,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,38,68,Bensalem,PA,Princeton Junction,NJ,0
+Senior Data Analyst,Company - Private,Finance,38,68,Malvern,PA,Malvern,PA,1
+Junior Data Analyst,Company - Private,Business Services,38,68,Philadelphia,PA,Millersville,MD,0
+Junior Data Analyst,Company - Private,Business Services,38,68,Philadelphia,PA,New York,NY,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,38,68,King of Prussia,PA,Whippany,NJ,0
+Junior Data Analyst,Company - Private,Business Services,38,68,Horsham,PA,Mc Lean,VA,0
+Junior Data Analyst,Company - Private,Business Services,38,68,Exton,PA,Harleysville,PA,0
+Senior Data Analyst,Nonprofit Organization,Non-Profit,38,68,Philadelphia,PA,Philadelphia,PA,1
+Senior Data Analyst,Company - Private,Information Technology,38,68,Philadelphia,PA,Basking Ridge,NJ,0
+Junior Data Analyst,Company - Private,Business Services,38,68,Wayne,PA,Houston,TX,0
+Senior Data Analyst,College / University,Education,37,44,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,-1,37,44,Doylestown,PA,Doylestown,PA,1
+Senior Data Analyst,Nonprofit Organization,Health Care,37,44,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,College / University,Education,37,44,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Business Services,37,44,Allegheny West,PA,El Segundo,CA,0
+Junior Data Analyst,Company - Private,Business Services,37,44,Paoli,PA,Audubon,PA,0
+Junior Data Analyst,Company - Private,Retail,37,44,Doylestown,PA,Doylestown,PA,1
+Junior Data Analyst,Company - Private,Information Technology,37,44,Horsham,PA,Mc Lean,VA,0
+Junior Data Analyst,Company - Private,Business Services,37,44,Wilmington,DE,New York,NY,0
+Junior Data Analyst,Nonprofit Organization,Health Care,37,44,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Business Services,37,44,Chester Township,PA,Philadelphia,PA,0
+Junior Data Analyst,Company - Private,Business Services,37,44,Conshohocken,PA,Farmington,CT,0
+Junior Data Analyst,Nonprofit Organization,Education,37,44,West Chester,PA,West Chester,PA,1
+Senior Data Analyst,Company - Private,Finance,37,44,Malvern,PA,Malvern,PA,1
+Senior Data Analyst,Company - Public,Finance,37,44,Mount Laurel,NJ,Toronto,Canada,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,37,44,Ridley Park,PA,Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,37,44,Wayne,PA,Middleton,WI,0
+Junior Data Analyst,Company - Private,Finance,37,44,Mount Laurel,NJ,Mount Laurel,NJ,1
+Junior Data Analyst,Company - Private,Information Technology,37,44,Philadelphia,PA,Pittsburgh,PA,0
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",37,44,West Chester,PA,West Chester,PA,1
+Junior Data Analyst,Company - Private,Business Services,37,44,Berwyn,PA,Blue Bell,PA,0
+Junior Data Analyst,Company - Private,Business Services,37,44,Philadelphia,PA,Chadds Ford,PA,0
+Junior Data Analyst,Company - Private,Business Services,37,44,Philadelphia,PA,Millersville,MD,0
+Junior Data Analyst,Company - Private,Business Services,37,44,Horsham,PA,Mc Lean,VA,0
+Junior Data Analyst,Company - Public,Business Services,37,44,Wilmington,DE,Tampa,FL,0
+Junior Data Analyst,Company - Private,-1,37,44,Philadelphia,PA,Dallas,TX,0
+Junior Data Analyst,Company - Private,Information Technology,37,44,Horsham,PA,Mc Lean,VA,0
+Senior Data Analyst,Company - Private,Business Services,37,44,Philadelphia,PA,Philadelphia,PA,1
+Senior Data Analyst,Company - Private,Health Care,64,113,Philadelphia,PA,Phila,PA,0
+Junior Data Analyst,Company - Private,Information Technology,64,113,Plymouth Meeting,PA,Newark,CA,0
+Junior Data Analyst,Company - Private,Business Services,64,113,Philadelphia,PA,Mount Laurel,NJ,0
+Senior Data Analyst,Company - Private,Business Services,64,113,Wayne,PA,Wayne,PA,1
+Junior Data Analyst,Company - Private,Insurance,64,113,Newtown Square,PA,Linthicum,MD,0
+Junior Data Analyst,Company - Private,Information Technology,64,113,Philadelphia,PA,Holmdel,NJ,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,64,113,Wayne,PA,Radnor,PA,0
+Junior Data Analyst,Company - Public,Business Services,64,113,Philadelphia,PA,Pasadena,CA,0
+Junior Data Analyst,Company - Private,Finance,64,113,Mount Laurel,NJ,Mount Laurel,NJ,1
+Junior Data Analyst,Company - Private,-1,64,113,Wayne,PA,Miami,FL,0
+Junior Data Analyst,Subsidiary or Business Segment,Telecommunications,64,113,Philadelphia,PA,San Diego,CA,0
+Senior Data Analyst,Company - Private,Finance,64,113,Malvern,PA,Malvern,PA,1
+Junior Data Analyst,Company - Private,Business Services,64,113,Boothwyn,PA,Wayne,PA,0
+Junior Data Analyst,Subsidiary or Business Segment,Insurance,64,113,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,64,113,Philadelphia,PA,Brentford,United Kingdom,0
+Junior Data Analyst,Company - Private,Business Services,64,113,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,-1,64,113,Norristown,PA,Sparta,NJ,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,64,113,West Point,PA,Luxembourg,Luxembourg,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,64,113,West Point,PA,Luxembourg,Luxembourg,0
+Junior Data Analyst,Company - Private,Finance,64,113,Marlton,NJ,Mount Laurel,NJ,0
+Senior Data Analyst,Company - Private,Business Services,64,113,King of Prussia,PA,King of Prussia,PA,1
+Junior Data Analyst,Hospital,Health Care,64,113,Camden,NJ,Camden,NJ,1
+Junior Data Analyst,Company - Private,Information Technology,64,113,Malvern,PA,Princeton,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Insurance,64,113,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Private,Business Services,64,113,Philadelphia,PA,Ashburn,VA,0
+Junior Data Analyst,Company - Public,Business Services,64,113,Philadelphia,PA,Milwaukee,WI,0
+Junior Data Analyst,Company - Private,Business Services,64,113,Philadelphia,PA,Millersville,MD,0
+Junior Data Analyst,Company - Private,Business Services,50,93,King of Prussia,PA,Raleigh,NC,0
+Junior Data Analyst,Company - Private,Business Services,50,93,Allegheny West,PA,El Segundo,CA,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,50,93,Philadelphia,PA,Abingdon,United Kingdom,0
+Junior Data Analyst,Private Practice / Firm,Information Technology,50,93,Horsham,PA,Highland Park,IL,0
+Junior Data Analyst,Company - Private,Business Services,50,93,Wilmington,DE,Wayne,PA,0
+Junior Data Analyst,Company - Private,Information Technology,50,93,Wilmington,DE,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Manufacturing,50,93,Berwyn,PA,Schaffhausen,Switzerland,0
+Junior Data Analyst,Company - Private,Finance,50,93,Marlton,NJ,Mount Laurel,NJ,0
+Senior Data Analyst,Company - Private,Insurance,50,93,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Public,Business Services,50,93,Philadelphia,PA,Milwaukee,WI,0
+Junior Data Analyst,Company - Private,Business Services,50,93,Horsham,PA,Mc Lean,VA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,50,93,Moorestown,NJ,Plainfield,NJ,0
+Junior Data Analyst,Company - Public,Finance,50,93,Wilmington,DE,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,50,93,Horsham,PA,Mc Lean,VA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,50,93,Philadelphia,PA,Philadelphia,PA,1
+Junior Data Analyst,Company - Public,Business Services,50,93,Wilmington,DE,Tampa,FL,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Chantilly,VA,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Fairfax,VA,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Ashburn,VA,0
+Junior Data Analyst,Company - Private,Business Services,37,68,San Antonio,TX,Edison,NJ,0
+Junior Data Analyst,Company - Private,Business Services,37,68,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Rochester,NY,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Princeton,NJ,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,37,68,San Antonio,TX,Newport News,VA,0
+Junior Data Analyst,Company - Private,Retail,37,68,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Company - Private,Business Services,37,68,San Antonio,TX,Austin,TX,0
+Junior Data Analyst,Company - Private,Finance,37,68,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Company - Private,Retail,37,68,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Other Organization,-1,37,68,San Antonio,TX,Irving,TX,0
+Junior Data Analyst,Company - Private,Government,37,68,San Antonio,TX,Annapolis,MD,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Chantilly,VA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,37,68,San Antonio,TX,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,37,68,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Reston,VA,0
+Senior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,San Antonio,TX,1
+Senior Data Analyst,Company - Public,Information Technology,37,68,San Antonio,TX,Noida,India,0
+Junior Data Analyst,Company - Private,Information Technology,37,68,San Antonio,TX,Dayton,OH,0
+Junior Data Analyst,Nonprofit Organization,Finance,37,68,San Antonio,TX,Rusk,TX,0
+Senior Data Analyst,Company - Public,Business Services,37,68,San Antonio,TX,Tampa,FL,0
+Senior Data Analyst,Company - Private,Retail,37,68,San Antonio,TX,San Diego,CA,0
+Junior Data Analyst,Company - Private,Business Services,37,68,San Antonio,TX,South Plainfield,NJ,0
+Junior Data Analyst,Nonprofit Organization,Business Services,37,68,San Antonio,TX,Tysons,VA,0
+Junior Data Analyst,Company - Private,Government,37,68,San Antonio,TX,Bethesda,MD,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,37,68,Lackland AFB,TX,Fairfax,VA,0
+Senior Data Analyst,Company - Private,Information Technology,73,89,San Antonio,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Information Technology,73,89,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Unknown,Non-Profit,73,89,San Antonio,TX,Kotzebue,AK,0
+Junior Data Analyst,Company - Private,Aerospace & Defense,73,89,San Antonio,TX,Herndon,VA,0
+Junior Data Analyst,Company - Private,Information Technology,73,89,San Antonio,TX,Princeton,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,73,89,San Antonio,TX,San Antonio,TX,1
+Junior Data Analyst,Company - Public,Business Services,73,89,San Antonio,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Accounting & Legal,73,89,San Antonio,TX,Catoosa,OK,0
+Junior Data Analyst,Company - Private,Aerospace & Defense,73,89,Lackland AFB,TX,Newport News,VA,0
+Senior Data Analyst,Company - Private,Information Technology,73,89,San Antonio,TX,Reston,VA,0
+Junior Data Analyst,Nonprofit Organization,Finance,73,89,San Antonio,TX,Rusk,TX,0
+Senior Data Analyst,Company - Private,Business Services,73,89,San Antonio,TX,Irving,TX,0
+Junior Data Analyst,Company - Private,Information Technology,73,89,San Antonio,TX,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,73,89,San Antonio,TX,Dayton,OH,0
+Junior Data Analyst,Nonprofit Organization,Finance,73,89,Fort Sam Houston,TX,Rusk,TX,0
+Junior Data Analyst,Contract,Business Services,73,89,San Antonio,TX,Detroit,MI,0
+Junior Data Analyst,Contract,Business Services,73,89,San Antonio,TX,Detroit,MI,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,76,122,San Diego,CA,Arlington,VA,0
+Junior Data Analyst,Subsidiary or Business Segment,Finance,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,College / University,Education,76,122,San Diego,CA,La Jolla,CA,0
+Junior Data Analyst,Company - Public,Education,76,122,San Diego,CA,Nashville,TN,0
+Junior Data Analyst,Company - Private,Accounting & Legal,76,122,San Diego,CA,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,76,122,San Diego,CA,Somerset,NJ,0
+Junior Data Analyst,College / University,Education,76,122,San Diego,CA,Oakland,CA,0
+Junior Data Analyst,Hospital,Health Care,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,Aerospace & Defense,76,122,San Diego,CA,Mechanicsburg,PA,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,Information Technology,76,122,San Diego,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Finance,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Public,Education,76,122,San Diego,CA,Nashville,TN,0
+Junior Data Analyst,Company - Private,Business Services,76,122,San Diego,CA,Miami,FL,0
+Senior Data Analyst,Company - Public,Finance,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,Business Services,76,122,San Diego,CA,La Jolla,CA,0
+Junior Data Analyst,Nonprofit Organization,-1,76,122,San Diego,CA,Fenton,MI,0
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",76,122,San Diego,CA,Millbrae,CA,0
+Junior Data Analyst,Company - Public,Manufacturing,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,Business Services,76,122,San Diego,CA,Ashburn,VA,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,76,122,San Diego,CA,Reston,VA,0
+Junior Data Analyst,Company - Private,Information Technology,76,122,San Diego,CA,Woodridge,IL,0
+Junior Data Analyst,Nonprofit Organization,-1,76,122,San Diego,CA,Hagerstown,MD,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,76,122,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Public,Manufacturing,76,122,San Diego,CA,Franklin Lakes,NJ,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,60,124,San Diego,CA,Boston,MA,0
+Junior Data Analyst,Company - Public,Business Services,60,124,San Diego,CA,Troy,MI,0
+Senior Data Analyst,Nonprofit Organization,Health Care,60,124,San Diego,CA,Oakland,CA,0
+Senior Data Analyst,Company - Public,Biotech & Pharmaceuticals,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,College / University,Education,60,124,San Diego,CA,La Jolla,CA,0
+Junior Data Analyst,Company - Private,Information Technology,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,Information Technology,60,124,San Diego,CA,San Diego,CA,1
+Senior Data Analyst,Company - Public,Information Technology,60,124,San Diego,CA,Mountain View,CA,0
+Junior Data Analyst,Unknown,-1,60,124,San Diego,CA,Towanda,PA,0
+Junior Data Analyst,Hospital,Health Care,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,-1,60,124,San Diego,CA,San Diego,CA,1
+Senior Data Analyst,Company - Public,Information Technology,60,124,San Diego,CA,Mountain View,CA,0
+Junior Data Analyst,Company - Public,Insurance,60,124,San Diego,CA,Saint Louis,MO,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,60,124,San Diego,CA,Boulder,CO,0
+Junior Data Analyst,Company - Private,Information Technology,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Nonprofit Organization,-1,60,124,San Diego,CA,Hagerstown,MD,0
+Junior Data Analyst,College / University,Education,60,124,San Diego,CA,La Jolla,CA,0
+Junior Data Analyst,Company - Private,Information Technology,60,124,San Diego,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,-1,60,124,San Diego,CA,Germantown,MD,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,60,124,San Diego,CA,New York,NY,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,60,124,San Diego,CA,Chantilly,VA,0
+Junior Data Analyst,College / University,Education,60,124,San Diego,CA,La Jolla,CA,0
+Junior Data Analyst,Company - Private,Business Services,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Public,-1,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,"Arts, Entertainment & Recreation",60,124,El Cajon,CA,El Cajon,CA,1
+Junior Data Analyst,College / University,Education,60,124,San Diego,CA,Long Beach,CA,0
+Junior Data Analyst,Company - Private,Information Technology,60,124,San Diego,CA,Edison,NJ,0
+Junior Data Analyst,Hospital,Health Care,60,124,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Private,Information Technology,60,124,San Diego,CA,Maryland Heights,MO,0
+Junior Data Analyst,Company - Private,Business Services,60,124,San Diego,CA,Aliso Viejo,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,60,124,San Diego,CA,Fairfax,VA,0
+Junior Data Analyst,College / University,Education,34,61,San Diego,CA,La Jolla,CA,0
+Senior Data Analyst,Company - Private,Finance,34,61,San Diego,CA,San Diego,CA,1
+Junior Data Analyst,Company - Public,Aerospace & Defense,34,61,San Diego,CA,Chantilly,VA,0
+Senior Data Analyst,Company - Private,Information Technology,34,61,San Diego,CA,Stafford,VA,0
+Junior Data Analyst,Company - Public,Information Technology,24,48,Plano,TX,Tempe,AZ,0
+Junior Data Analyst,Company - Public,Information Technology,24,48,Plano,TX,Tempe,AZ,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,24,48,Allen,TX,Ottawa,Canada,0
+Junior Data Analyst,Company - Private,Retail,24,48,Arlington,TX,London,United Kingdom,0
+Junior Data Analyst,Nonprofit Organization,Business Services,24,48,Dallas,TX,Easton,MD,0
+Junior Data Analyst,Company - Private,Information Technology,24,48,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Private,Business Services,24,48,Dallas,TX,Chicago,IL,0
+Junior Data Analyst,Company - Private,Business Services,24,48,Dallas,TX,New York,NY,0
+Junior Data Analyst,Company - Public,Finance,24,48,Dallas,TX,New York,NY,0
+Junior Data Analyst,Company - Private,"Arts, Entertainment & Recreation",24,48,Richardson,TX,Richardson,TX,1
+Junior Data Analyst,Company - Private,Business Services,24,48,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Private,Finance,24,48,Dallas,TX,New York,NY,0
+Junior Data Analyst,Contract,-1,24,48,Dallas,TX,Plano,TX,0
+Junior Data Analyst,Company - Private,Information Technology,24,48,Dallas,TX,Richardson,TX,0
+Junior Data Analyst,Government,Government,24,48,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Public,Finance,24,48,Dallas,TX,New York,NY,0
+Junior Data Analyst,Company - Public,Information Technology,24,48,Irving,TX,Bezons,France,0
+Junior Data Analyst,Company - Public,Information Technology,24,48,Irving,TX,Irving,TX,1
+Junior Data Analyst,Company - Private,Retail,24,48,Arlington,TX,London,United Kingdom,0
+Junior Data Analyst,Company - Public,Telecommunications,24,48,Dallas,TX,Nokia,Finland,0
+Junior Data Analyst,Company - Private,Business Services,24,48,Richardson,TX,Wayne,PA,0
+Junior Data Analyst,Company - Private,-1,24,48,Dallas,TX,Hastings,MN,0
+Junior Data Analyst,Company - Private,Media,24,48,Dallas,TX,Rockville,MD,0
+Junior Data Analyst,Company - Private,Business Services,24,48,Dallas,TX,Norwalk,CT,0
+Junior Data Analyst,Company - Public,Finance,24,48,Irving,TX,Dallas,TX,0
+Junior Data Analyst,Nonprofit Organization,Health Care,24,48,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Private,Information Technology,24,48,Dallas,TX,Woodridge,IL,0
+Junior Data Analyst,Nonprofit Organization,-1,24,48,Plano,TX,Frisco,TX,0
+Junior Data Analyst,Company - Public,Information Technology,24,48,Dallas,TX,Paris,France,0
+Junior Data Analyst,Company - Private,Business Services,30,53,Dallas,TX,Red Bank,NJ,0
+Junior Data Analyst,School / School District,Education,30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Private,Health Care,30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Public,Business Services,30,53,Dallas,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Finance,30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,School / School District,Education,30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Public,Insurance,30,53,Irving,TX,Santa Ana,CA,0
+Junior Data Analyst,Company - Private,Health Care,30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Government,Government,30,53,Dallas,TX,Washington,DC,0
+Junior Data Analyst,Company - Private,Health Care,30,53,Dallas,TX,Yakima,WA,0
+Junior Data Analyst,Subsidiary or Business Segment,Manufacturing,30,53,Grapevine,TX,Grapevine,TX,1
+Junior Data Analyst,Company - Public,Manufacturing,30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,30,53,Plano,TX,Atlanta,GA,0
+Junior Data Analyst,Company - Public,Information Technology,30,53,Irving,TX,Mumbai,India,0
+Junior Data Analyst,Nonprofit Organization,Finance,30,53,Dallas,TX,Richmond,VA,0
+Junior Data Analyst,Company - Private,Information Technology,30,53,Plano,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,30,53,Dallas,TX,Utica,MI,0
+Junior Data Analyst,Company - Public,"Oil, Gas, Energy & Utilities",30,53,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Public,Finance,30,53,Irving,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,30,53,Dallas,TX,Woodridge,IL,0
+Junior Data Analyst,Nonprofit Organization,Business Services,30,53,Arlington,TX,Arlington,TX,1
+Junior Data Analyst,Company - Private,-1,30,53,Dallas,TX,Bengaluru,India,0
+Junior Data Analyst,Company - Public,Finance,30,53,Dallas,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,30,53,Plano,TX,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Business Services,30,53,Plano,TX,Memphis,TN,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,30,53,Irving,TX,Glen Allen,VA,0
+Junior Data Analyst,Company - Public,Information Technology,30,53,Richardson,TX,Richardson,TX,1
+Junior Data Analyst,Company - Private,Manufacturing,41,86,Lewisville,TX,Addison,TX,0
+Senior Data Analyst,Company - Private,Media,41,86,Dallas,TX,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,41,86,Grapevine,TX,Plano,TX,0
+Junior Data Analyst,Company - Private,Information Technology,41,86,Irving,TX,Irving,TX,1
+Junior Data Analyst,Company - Private,Business Services,41,86,Plano,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Health Care,41,86,Addison,TX,San Antonio,TX,0
+Junior Data Analyst,Company - Public,-1,41,86,Irving,TX,Irving,TX,1
+Junior Data Analyst,Unknown,-1,41,86,Plano,TX,Paris,France,0
+Junior Data Analyst,Company - Public,Information Technology,41,86,Irving,TX,Tokyo,Japan,0
+Junior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",41,86,Arlington,TX,Winnebago,NE,0
+Junior Data Analyst,Company - Private,Information Technology,41,86,Plano,TX,New Brunswick,NJ,0
+Senior Data Analyst,Company - Public,Finance,41,86,Irving,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,41,86,Irving,TX,Irving,TX,1
+Junior Data Analyst,Company - Private,Insurance,41,86,Dallas,TX,Mobile,AL,0
+Junior Data Analyst,Company - Private,Information Technology,41,86,Grapevine,TX,Dallas,TX,0
+Junior Data Analyst,Company - Private,Aerospace & Defense,41,86,Dallas,TX,San Diego,CA,0
+Junior Data Analyst,Company - Private,-1,41,86,Plano,TX,Plano,TX,1
+Senior Data Analyst,Company - Private,Business Services,41,86,Dallas,TX,Towson,MD,0
+Junior Data Analyst,Company - Private,Information Technology,41,86,Dallas,TX,Farmington Hills,MI,0
+Junior Data Analyst,Company - Public,Business Services,41,86,Irving,TX,Boca Raton,FL,0
+Junior Data Analyst,Company - Private,Business Services,41,86,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Private,-1,41,86,Plano,TX,Warwick,United Kingdom,0
+Junior Data Analyst,Company - Private,Information Technology,41,86,Dallas,TX,Flower Mound,TX,0
+Junior Data Analyst,Company - Public,Manufacturing,41,86,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Subsidiary or Business Segment,Finance,41,86,Dallas,TX,Pittsburgh,PA,0
+Junior Data Analyst,Company - Private,Health Care,41,86,Irving,TX,Irving,TX,1
+Junior Data Analyst,Company - Private,Business Services,41,86,Dallas,TX,Rockville,MD,0
+Junior Data Analyst,Government,Government,44,82,Tarrant,TX,Fort Worth,TX,0
+Junior Data Analyst,Company - Private,Business Services,44,82,Dallas,TX,Red Bank,NJ,0
+Junior Data Analyst,Company - Private,Consumer Services,44,82,Irving,TX,Irving,TX,1
+Junior Data Analyst,College / University,Education,44,82,Arlington,TX,Arlington,TX,1
+Junior Data Analyst,Company - Private,Information Technology,44,82,Plano,TX,Newark,CA,0
+Junior Data Analyst,Company - Private,Finance,44,82,Carrollton,TX,Madison,WI,0
+Senior Data Analyst,Company - Private,Health Care,44,82,Dallas,TX,Dallas,TX,1
+Senior Data Analyst,Company - Public,Information Technology,44,82,Plano,TX,Noida,India,0
+Junior Data Analyst,Company - Public,Manufacturing,44,82,Dallas,TX,Annapolis Junction,MD,0
+Junior Data Analyst,Subsidiary or Business Segment,"Construction, Repair & Maintenance",44,82,Southlake,TX,Southlake,TX,1
+Junior Data Analyst,Subsidiary or Business Segment,Finance,44,82,Dallas,TX,Pittsburgh,PA,0
+Junior Data Analyst,Company - Private,Finance,44,82,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Private,-1,44,82,Dallas,TX,Bengaluru,India,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,44,82,Dallas,TX,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Finance,44,82,Lewisville,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,44,82,Irving,TX,South Plainfield,NJ,0
+Junior Data Analyst,Company - Private,Business Services,44,82,Dallas,TX,Frisco,TX,0
+Junior Data Analyst,Company - Public,Information Technology,44,82,Coppell,TX,Bengaluru,India,0
+Junior Data Analyst,Company - Private,-1,44,82,Dallas,TX,Alpharetta,GA,0
+Senior Data Analyst,Company - Private,Business Services,44,82,Dallas,TX,Hampton,VA,0
+Junior Data Analyst,Company - Private,Consumer Services,44,82,Plano,TX,Plano,TX,1
+Junior Data Analyst,Government,-1,44,82,Plano,TX,McKinney,TX,0
+Junior Data Analyst,Company - Private,Accounting & Legal,44,82,Richardson,TX,Plainsboro,NJ,0
+Senior Data Analyst,Company - Private,Finance,44,82,Farmers Branch,TX,Ann Arbor,MI,0
+Junior Data Analyst,Company - Private,Business Services,44,82,Dallas,TX,Sugar Land,TX,0
+Junior Data Analyst,Subsidiary or Business Segment,Manufacturing,48,88,Dallas,TX,Dallas,TX,1
+Junior Data Analyst,Company - Public,Business Services,48,88,Plano,TX,Tampa,FL,0
+Junior Data Analyst,Company - Public,Business Services,48,88,Plano,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Health Care,48,88,Plano,TX,Plano,TX,1
+Junior Data Analyst,Company - Public,Finance,48,88,Irving,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Irving,TX,Cherry Hill,NJ,0
+Junior Data Analyst,Company - Private,-1,48,88,Dallas,TX,New York,NY,0
+Junior Data Analyst,College / University,Education,48,88,Arlington,TX,Arlington,TX,1
+Junior Data Analyst,Company - Private,-1,48,88,Dallas,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Consumer Services,48,88,Irving,TX,Irving,TX,1
+Junior Data Analyst,Contract,Information Technology,48,88,Dallas,TX,Vienna,VA,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Irving,TX,South Plainfield,NJ,0
+Junior Data Analyst,Company - Public,Information Technology,48,88,Irving,TX,Dallas,TX,0
+Senior Data Analyst,Company - Private,Manufacturing,48,88,Dallas,TX,Lisle,IL,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Richardson,TX,Somerset,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,48,88,Allen,TX,Greenwood Village,CO,0
+Senior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",48,88,Arlington,TX,Winnebago,NE,0
+Junior Data Analyst,Company - Private,Accounting & Legal,48,88,Richardson,TX,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Irving,TX,Irving,TX,1
+Junior Data Analyst,Company - Private,Information Technology,48,88,Plano,TX,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Richardson,TX,Somerset,NJ,0
+Junior Data Analyst,Hospital,Health Care,48,88,Plano,TX,Tallassee,AL,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Richardson,TX,Hilliard,OH,0
+Junior Data Analyst,Company - Private,Accounting & Legal,48,88,Richardson,TX,Plainsboro,NJ,0
+Senior Data Analyst,Company - Private,Real Estate,48,88,Dallas,TX,Boca Raton,FL,0
+Junior Data Analyst,Company - Private,Business Services,48,88,Irving,TX,Atlanta,GA,0
+Senior Data Analyst,Company - Private,Transportation & Logistics,44,78,Arlington,TX,Aberdeen,United Kingdom,0
+Junior Data Analyst,Company - Public,Transportation & Logistics,44,78,Plano,TX,Fort Smith,AR,0
+Junior Data Analyst,Company - Private,Accounting & Legal,44,78,Richardson,TX,Plainsboro,NJ,0
+Senior Data Analyst,Company - Private,Business Services,44,78,Plano,TX,Irving,TX,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,44,78,Plano,TX,Glen Allen,VA,0
+Senior Data Analyst,Company - Public,Business Services,44,78,Plano,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Information Technology,44,78,Irving,TX,Irving,TX,1
+Senior Data Analyst,Company - Public,Finance,44,78,Irving,TX,Baltimore,MD,0
+Junior Data Analyst,Company - Private,Information Technology,44,78,Allen,TX,Newark,CA,0
+Junior Data Analyst,Company - Private,Business Services,110,190,Newark,CA,Campbell,CA,0
+Senior Data Analyst,Company - Public,Information Technology,110,190,Santa Clara,CA,Santa Clara,CA,1
+Junior Data Analyst,Company - Private,Information Technology,110,190,Newark,CA,Newark,CA,1
+Junior Data Analyst,Company - Private,Information Technology,110,190,Santa Clara,CA,Sunnyvale,CA,0
+Junior Data Analyst,Company - Public,Information Technology,110,190,Redwood City,CA,Irvine,CA,0
+Senior Data Analyst,Subsidiary or Business Segment,"Arts, Entertainment & Recreation",110,190,Santa Clara,CA,Santa Clara,CA,1
+Junior Data Analyst,Company - Public,Business Services,110,190,Cupertino,CA,Troy,MI,0
+Junior Data Analyst,Company - Public,Manufacturing,110,190,Fremont,CA,Palo Alto,CA,0
+Junior Data Analyst,Company - Public,Information Technology,110,190,San Jose,CA,Mumbai,India,0
+Junior Data Analyst,Company - Private,Information Technology,110,190,Menlo Park,CA,Chandler,AZ,0
+Junior Data Analyst,Company - Private,Accounting & Legal,110,190,Santa Clara,CA,Santa Clara,CA,1
+Junior Data Analyst,Company - Private,Information Technology,110,190,San Jose,CA,Sunnyvale,CA,0
+Junior Data Analyst,Company - Private,Health Care,110,190,Palo Alto,CA,Palo Alto,CA,1
+Junior Data Analyst,Company - Private,Business Services,110,190,Cupertino,CA,Troy,MI,0
+Junior Data Analyst,Company - Private,-1,110,190,Palo Alto,CA,Rio de Janeiro,Brazil,0
+Junior Data Analyst,Company - Private,Information Technology,110,190,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Company - Private,Information Technology,110,190,Menlo Park,CA,Reno,NV,0
+Junior Data Analyst,Company - Private,Information Technology,110,190,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Company - Private,Information Technology,110,190,Cupertino,CA,Natick,MA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,110,190,Sunnyvale,CA,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,110,190,Sunnyvale,CA,Pleasanton,CA,0
+Junior Data Analyst,Company - Private,Health Care,110,190,San Jose,CA,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Information Technology,110,190,San Jose,CA,Princeton,NJ,0
+Senior Data Analyst,Company - Public,Information Technology,110,190,Los Gatos,CA,Los Gatos,CA,1
+Junior Data Analyst,Company - Private,Business Services,110,190,San Jose,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,110,190,Sunnyvale,CA,Troy,MI,0
+Junior Data Analyst,Company - Private,Information Technology,110,190,San Jose,CA,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,Santa Clara,CA,Houston,TX,0
+Senior Data Analyst,Company - Public,Information Technology,89,151,Los Gatos,CA,Los Gatos,CA,1
+Junior Data Analyst,Company - Private,Business Services,89,151,San Jose,CA,Alpharetta,GA,0
+Junior Data Analyst,Company - Public,Information Technology,89,151,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Business Services,89,151,Cupertino,CA,Irving,TX,0
+Junior Data Analyst,Company - Public,Manufacturing,89,151,San Jose,CA,San Jose,CA,1
+Junior Data Analyst,Company - Private,Business Services,89,151,San Jose,CA,Canton,MI,0
+Junior Data Analyst,Company - Public,Business Services,89,151,San Jose,CA,Jacksonville,FL,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,Sunnyvale,CA,Basking Ridge,NJ,0
+Junior Data Analyst,Company - Private,Accounting & Legal,89,151,San Jose,CA,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,Menlo Park,CA,Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,San Jose,CA,Irving,TX,0
+Junior Data Analyst,Company - Private,Consumer Services,89,151,Redwood City,CA,Redwood City,CA,1
+Junior Data Analyst,Company - Private,Information Technology,89,151,Redwood City,CA,Redwood City,CA,1
+Junior Data Analyst,Company - Private,Business Services,89,151,Sunnyvale,CA,Morristown,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,San Jose,CA,Pleasanton,CA,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,Cupertino,CA,Herndon,VA,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,San Jose,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Information Technology,89,151,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Public,Information Technology,89,151,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,Menlo Park,CA,Pleasanton,CA,0
+Junior Data Analyst,Company - Public,Information Technology,89,151,Palo Alto,CA,Walldorf,Germany,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,Cupertino,CA,Bengaluru,India,0
+Junior Data Analyst,Company - Private,Information Technology,89,151,San Jose,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,-1,89,151,San Jose,CA,Santa Clara,CA,0
+Junior Data Analyst,Company - Public,Health Care,89,151,Redwood City,CA,Madison,WI,0
+Junior Data Analyst,College / University,Education,69,127,Stanford,CA,Stanford,CA,1
+Junior Data Analyst,Company - Private,Information Technology,69,127,San Jose,CA,Princeton,NJ,0
+Junior Data Analyst,Company - Public,Media,69,127,Los Gatos,CA,Hoboken,NJ,0
+Junior Data Analyst,Company - Public,Information Technology,69,127,San Jose,CA,San Jose,CA,1
+Junior Data Analyst,Company - Private,Information Technology,69,127,Palo Alto,CA,Santa Clara,CA,0
+Junior Data Analyst,Company - Public,Information Technology,69,127,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Finance,69,127,Menlo Park,CA,Menlo Park,CA,1
+Junior Data Analyst,College / University,Education,69,127,Stanford,CA,Stanford,CA,1
+Junior Data Analyst,Company - Private,-1,69,127,Santa Clara,CA,Hyderabad,India,0
+Junior Data Analyst,Company - Private,-1,69,127,San Jose,CA,Fremont,CA,0
+Junior Data Analyst,Company - Public,Information Technology,69,127,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,69,127,Redwood City,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,Cupertino,CA,Oakland,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,Redwood City,CA,Newark,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,Mountain View,CA,Natick,MA,0
+Junior Data Analyst,Company - Private,Business Services,69,127,Sunnyvale,CA,Edison,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,69,127,Cupertino,CA,New York,NY,0
+Junior Data Analyst,Company - Private,-1,69,127,Mountain View,CA,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,Fremont,CA,Fremont,CA,1
+Junior Data Analyst,College / University,Education,69,127,Stanford,CA,Stanford,CA,1
+Junior Data Analyst,Company - Public,Business Services,69,127,Sunnyvale,CA,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,San Jose,CA,Southfield,MI,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,69,127,Sunnyvale,CA,North Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,San Jose,CA,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,San Jose,CA,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,Santa Clara,CA,Houston,TX,0
+Senior Data Analyst,Company - Public,Information Technology,69,127,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Information Technology,69,127,San Jose,CA,Santa Cruz,CA,0
+Senior Data Analyst,Company - Public,Information Technology,51,93,San Jose,CA,San Jose,CA,1
+Senior Data Analyst,Company - Private,Retail,51,93,Palo Alto,CA,Palo Alto,CA,1
+Senior Data Analyst,Company - Public,Information Technology,51,93,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,51,93,Menlo Park,CA,Glen Allen,VA,0
+Junior Data Analyst,Company - Public,Information Technology,51,93,San Jose,CA,San Jose,CA,1
+Junior Data Analyst,Company - Private,Health Care,51,93,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Company - Private,-1,51,93,Fremont,CA,Irvine,CA,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,51,93,Sunnyvale,CA,North Chicago,IL,0
+Junior Data Analyst,Company - Private,Business Services,51,93,Cupertino,CA,Elk Grove,CA,0
+Senior Data Analyst,Company - Public,Information Technology,51,93,East Palo Alto,CA,Seattle,WA,0
+Senior Data Analyst,Company - Public,-1,51,93,Redwood City,CA,Redwood City,CA,1
+Junior Data Analyst,Company - Private,Accounting & Legal,51,93,Pleasanton,CA,Alexandria,VA,0
+Junior Data Analyst,Company - Private,Accounting & Legal,51,93,Pleasanton,CA,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,51,93,San Jose,CA,Irving,TX,0
+Junior Data Analyst,Company - Private,Business Services,51,93,Sunnyvale,CA,Pittsburgh,PA,0
+Senior Data Analyst,Company - Private,Health Care,51,93,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Company - Private,Manufacturing,51,93,Union City,CA,Union City,CA,1
+Senior Data Analyst,Company - Public,Information Technology,51,93,San Jose,CA,San Francisco,CA,0
+Junior Data Analyst,Company - Private,-1,51,93,Mountain View,CA,Santa Clara,CA,0
+Senior Data Analyst,Company - Private,Education,51,93,Redwood City,CA,Redwood City,CA,1
+Senior Data Analyst,Company - Private,Information Technology,51,93,San Jose,CA,Santa Cruz,CA,0
+Junior Data Analyst,Company - Private,Business Services,51,93,Palo Alto,CA,Brentwood,TN,0
+Senior Data Analyst,Company - Public,Information Technology,51,93,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Hospital,Health Care,51,93,Palo Alto,CA,Palo Alto,CA,1
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,51,93,Sunnyvale,CA,Sunnyvale,CA,1
+Junior Data Analyst,Company - Private,Business Services,51,93,Milpitas,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,51,93,Palo Alto,CA,Brentwood,TN,0
+Junior Data Analyst,Company - Public,Business Services,58,93,Cupertino,CA,Troy,MI,0
+Junior Data Analyst,Nonprofit Organization,Health Care,58,93,Union City,CA,Oakland,CA,0
+Junior Data Analyst,Company - Private,Information Technology,58,93,Menlo Park,CA,Pleasanton,CA,0
+Junior Data Analyst,Company - Private,Information Technology,58,93,Milpitas,CA,Milpitas,CA,1
+Junior Data Analyst,Company - Private,Business Services,58,93,Cupertino,CA,San Jose,CA,0
+Junior Data Analyst,Company - Private,Information Technology,58,93,San Jose,CA,Raleigh,NC,0
+Junior Data Analyst,Company - Public,Insurance,58,93,Santa Clara,CA,Santa Clara,CA,1
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,58,93,Palo Alto,CA,Palo Alto,CA,1
+Junior Data Analyst,Company - Private,Information Technology,58,93,Milpitas,CA,Milpitas,CA,1
+Junior Data Analyst,Company - Private,-1,58,93,San Jose,CA,Gardanne,France,0
+Junior Data Analyst,Company - Public,Business Services,58,93,Mountain View,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Manufacturing,58,93,Union City,CA,Union City,CA,1
+Junior Data Analyst,Company - Private,Business Services,58,93,Mountain View,CA,South Plainfield,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,58,93,Sunnyvale,CA,San Diego,CA,0
+Junior Data Analyst,Company - Public,Business Services,58,93,Sunnyvale,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Information Technology,58,93,San Jose,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Information Technology,58,93,Sunnyvale,CA,Sunnyvale,CA,1
+Junior Data Analyst,Company - Private,Information Technology,58,93,Menlo Park,CA,Chicago,IL,0
+Senior Data Analyst,Company - Public,Information Technology,58,93,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Business Services,58,93,Palo Alto,CA,Brentwood,TN,0
+Junior Data Analyst,Company - Private,Information Technology,58,93,Milpitas,CA,San Jose,CA,0
+Junior Data Analyst,Company - Private,Business Services,58,93,Mountain View,CA,Plano,TX,0
+Senior Data Analyst,Company - Public,Information Technology,58,93,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Company - Private,Business Services,58,93,Redwood City,CA,Troy,MI,0
+Junior Data Analyst,Company - Private,Business Services,58,93,Cupertino,CA,Acton,MA,0
+Senior Data Analyst,Other Organization,Information Technology,58,93,Santa Clara,CA,Santa Clara,CA,1
+Junior Data Analyst,Company - Public,Information Technology,58,93,San Jose,CA,San Jose,CA,1
+Junior Data Analyst,Company - Private,Accounting & Legal,58,93,Pleasanton,CA,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,63,116,Redwood City,CA,Redwood City,CA,1
+Junior Data Analyst,Company - Private,Business Services,63,116,Palo Alto,CA,Brentwood,TN,0
+Senior Data Analyst,Company - Private,Information Technology,63,116,San Jose,CA,Lawrenceville,NJ,0
+Junior Data Analyst,Company - Private,Business Services,63,116,Campbell,CA,South Portland,ME,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,63,116,Menlo Park,CA,Glen Allen,VA,0
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,63,116,Mountain View,CA,Mountain View,CA,1
+Junior Data Analyst,Company - Private,Consumer Services,63,116,Fremont,CA,Edison,NJ,0
+Senior Data Analyst,Company - Private,Business Services,63,116,San Jose,CA,Chantilly,VA,0
+Junior Data Analyst,Company - Private,Business Services,63,116,Palo Alto,CA,Brentwood,TN,0
+Junior Data Analyst,Company - Private,Business Services,63,116,Santa Clara,CA,Irvine,CA,0
+Junior Data Analyst,Company - Private,Business Services,63,116,Mountain View,CA,Farmington Hills,MI,0
+Junior Data Analyst,Company - Public,-1,63,116,Santa Clara,CA,Jacksonville,FL,0
+Senior Data Analyst,Company - Public,Finance,63,116,Palo Alto,CA,Palo Alto,CA,1
+Junior Data Analyst,Company - Private,Information Technology,63,116,Santa Clara,CA,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Accounting & Legal,63,116,Pleasanton,CA,Plainsboro,NJ,0
+Senior Data Analyst,Company - Public,Information Technology,63,116,Santa Clara,CA,Cupertino,CA,0
+Junior Data Analyst,Company - Private,Business Services,63,116,Palo Alto,CA,Canton,MI,0
+Junior Data Analyst,Company - Private,Information Technology,63,116,Redwood City,CA,Newark,CA,0
+Junior Data Analyst,Company - Public,Information Technology,42,76,Austin,TX,San Jose,CA,0
+Senior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Denver,CO,0
+Junior Data Analyst,Company - Private,Business Services,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Hoover,AL,0
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Los Angeles,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,42,76,Austin,TX,New York,NY,0
+Junior Data Analyst,Government,Government,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Education,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,San Francisco,CA,0
+Junior Data Analyst,Government,Government,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Public,Media,42,76,Austin,TX,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Business Services,42,76,Austin,TX,Walnut Creek,CA,0
+Junior Data Analyst,Company - Private,Finance,42,76,Austin,TX,New York,NY,0
+Junior Data Analyst,Government,Health Care,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Government,Finance,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Government,Government,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Ashburn,VA,0
+Junior Data Analyst,Company - Public,Business Services,42,76,Austin,TX,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Toronto,Canada,0
+Junior Data Analyst,Company - Private,Media,42,76,Austin,TX,Nicosia,Cyprus,0
+Junior Data Analyst,Company - Private,Information Technology,42,76,Austin,TX,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Health Care,42,76,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Public,Business Services,42,76,Austin,TX,Menlo Park,CA,0
+Junior Data Analyst,Company - Public,Information Technology,53,104,Austin,TX,Menlo Park,CA,0
+Junior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Health Care,53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Government,Government,53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Government,Government,53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Overland Park,KS,0
+Junior Data Analyst,Company - Public,Finance,53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,-1,53,104,Austin,TX,Allegan,MI,0
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Denver,CO,0
+Junior Data Analyst,Government,Government,53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Cedar Park,TX,0
+Senior Data Analyst,Company - Public,Information Technology,53,104,Austin,TX,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Business Services,53,104,Austin,TX,Gainesville,VA,0
+Junior Data Analyst,Government,Government,53,104,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Public,Insurance,53,104,Austin,TX,Saint Louis,MO,0
+Junior Data Analyst,Company - Private,Business Services,53,104,Austin,TX,Alpharetta,GA,0
+Junior Data Analyst,Company - Public,-1,53,104,Austin,TX,Plano,TX,0
+Junior Data Analyst,Company - Private,Business Services,53,104,Austin,TX,Alpharetta,GA,0
+Senior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Austin,TX,1
+Senior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Hoover,AL,0
+Junior Data Analyst,Company - Public,Information Technology,53,104,Austin,TX,Amsterdam,Netherlands,0
+Junior Data Analyst,Company - Private,Information Technology,53,104,Austin,TX,Austin,TX,1
+Senior Data Analyst,Company - Public,Information Technology,53,104,Austin,TX,San Francisco,CA,0
+Junior Data Analyst,Company - Public,Health Care,35,42,Austin,TX,Macquarie Park,Australia,0
+Junior Data Analyst,Nonprofit Organization,Health Care,35,42,Austin,TX,Saint Louis,MO,0
+Junior Data Analyst,Government,Government,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,35,42,Austin,TX,Mount Pleasant,SC,0
+Junior Data Analyst,Nonprofit Organization,Finance,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Accounting & Legal,35,42,Austin,TX,Saint Louis,MO,0
+Junior Data Analyst,Company - Public,Business Services,35,42,Austin,TX,Mc Lean,VA,0
+Junior Data Analyst,Company - Private,Information Technology,35,42,Austin,TX,Somerset,NJ,0
+Junior Data Analyst,Unknown,-1,35,42,Austin,TX,Bradenton,FL,0
+Junior Data Analyst,Company - Private,Business Services,35,42,Austin,TX,Reston,VA,0
+Junior Data Analyst,Company - Public,Information Technology,35,42,Austin,TX,Rockaway,NJ,0
+Junior Data Analyst,Company - Public,Insurance,35,42,Austin,TX,Tampa,FL,0
+Senior Data Analyst,Government,Health Care,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Government,Government,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Nonprofit Organization,Health Care,35,42,Austin,TX,Saint Louis,MO,0
+Junior Data Analyst,Company - Private,Information Technology,35,42,Austin,TX,Pleasanton,CA,0
+Junior Data Analyst,Company - Private,Health Care,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Information Technology,35,42,Austin,TX,Woodridge,IL,0
+Junior Data Analyst,Government,Government,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Business Services,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Business Services,35,42,Round Rock,TX,Boston,MA,0
+Junior Data Analyst,Company - Private,Business Services,35,42,Austin,TX,Austin,TX,1
+Senior Data Analyst,Company - Private,-1,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Transportation & Logistics,35,42,Cedar Park,TX,Cedar Park,TX,1
+Junior Data Analyst,Company - Public,Insurance,35,42,Austin,TX,Saint Louis,MO,0
+Senior Data Analyst,Company - Private,Information Technology,35,42,Round Rock,TX,New York,NY,0
+Junior Data Analyst,Government,Government,35,42,Austin,TX,Austin,TX,1
+Junior Data Analyst,Government,Government,43,77,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Business Services,43,77,Round Rock,TX,Wayne,PA,0
+Senior Data Analyst,Government,Government,43,77,Austin,TX,Austin,TX,1
+Junior Data Analyst,Company - Private,Business Services,40,72,Jacksonville,FL,Jacksonville,FL,1
+Junior Data Analyst,Company - Public,Business Services,40,72,Jacksonville,FL,Menlo Park,CA,0
+Junior Data Analyst,Company - Public,Finance,40,72,Jacksonville,FL,Frankfurt am Main,Germany,0
+Junior Data Analyst,Company - Private,Business Services,40,72,Jacksonville,FL,Tarrytown,NY,0
+Junior Data Analyst,Company - Private,Information Technology,40,72,Jacksonville,FL,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,40,72,Jacksonville,FL,Bethesda,MD,0
+Junior Data Analyst,Company - Public,Business Services,40,72,Jacksonville,FL,Des Moines,IA,0
+Junior Data Analyst,Company - Public,Finance,40,72,Jacksonville,FL,Frankfurt am Main,Germany,0
+Senior Data Analyst,Company - Public,Business Services,40,72,Jacksonville,FL,Eclepens,Switzerland,0
+Junior Data Analyst,Company - Private,Information Technology,40,72,Jacksonville,FL,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Finance,40,72,Jacksonville,FL,Frankfurt am Main,Germany,0
+Junior Data Analyst,Company - Private,Information Technology,40,72,Jacksonville,FL,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Insurance,40,72,Jacksonville,FL,Chicago,IL,0
+Senior Data Analyst,Company - Private,Finance,40,72,Jacksonville,FL,Burbank,CA,0
+Junior Data Analyst,Company - Private,Business Services,40,72,Jacksonville,FL,Fort Lauderdale,FL,0
+Junior Data Analyst,Company - Private,Information Technology,40,72,Jacksonville,FL,Princeton,NJ,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,50,86,Fort Worth,TX,Providence,RI,0
+Junior Data Analyst,Company - Public,-1,50,86,Fort Worth,TX,Cary,NC,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Fort Worth,TX,Grand Prairie,TX,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Fort Worth,TX,Richardson,TX,0
+Junior Data Analyst,Subsidiary or Business Segment,Aerospace & Defense,50,86,Fort Worth,TX,Fort Worth,TX,1
+Junior Data Analyst,Company - Private,Information Technology,50,86,Fort Worth,TX,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Irving,TX,Richardson,TX,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Fort Worth,TX,Tulsa,OK,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,50,86,Fort Worth,TX,Bethesda,MD,0
+Junior Data Analyst,Company - Public,Finance,50,86,Fort Worth,TX,Fort Worth,TX,1
+Junior Data Analyst,Other Organization,"Construction, Repair & Maintenance",50,86,Roanoke,TX,Roanoke,TX,1
+Junior Data Analyst,Company - Private,Transportation & Logistics,35,67,Fort Worth,TX,Fort Worth,TX,1
+Junior Data Analyst,Company - Private,Information Technology,35,67,Fort Worth,TX,Dallas,TX,0
+Junior Data Analyst,Company - Private,Information Technology,35,67,Fort Worth,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Business Services,35,67,Westlake,TX,Boston,MA,0
+Junior Data Analyst,Company - Public,-1,35,67,Fort Worth,TX,Carrollton,TX,0
+Junior Data Analyst,Company - Private,Information Technology,35,67,Fort Worth,TX,Tampa,FL,0
+Junior Data Analyst,Company - Private,Information Technology,57,70,Fort Worth,TX,Edison,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,57,70,Westlake,TX,Portsmouth,NH,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,28,52,Columbus,OH,Irvine,CA,0
+Junior Data Analyst,Company - Private,Information Technology,28,52,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Nonprofit Organization,Health Care,28,52,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Company - Public,Finance,28,52,Columbus,OH,SUNDERLAND,United Kingdom,0
+Junior Data Analyst,Company - Public,Retail,28,52,Columbus,OH,New Albany,OH,0
+Junior Data Analyst,Company - Public,Finance,28,52,Columbus,OH,New York,NY,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,28,52,Westerville,OH,Bonn,Germany,0
+Junior Data Analyst,Company - Public,Health Care,28,52,Columbus,OH,Abbott Park,IL,0
+Junior Data Analyst,Company - Private,Information Technology,28,52,Columbus,OH,Woodridge,IL,0
+Junior Data Analyst,Nonprofit Organization,Finance,28,52,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Company - Private,Business Services,28,52,Hilliard,OH,Alpharetta,GA,0
+Junior Data Analyst,Nonprofit Organization,Health Care,28,52,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Company - Private,Accounting & Legal,28,52,Columbus,OH,Dublin,OH,0
+Junior Data Analyst,Company - Private,Information Technology,28,52,Columbus,OH,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Health Care,28,52,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Company - Private,Business Services,28,52,Columbus,OH,Boston,MA,0
+Junior Data Analyst,Company - Private,-1,28,52,Columbus,OH,Dayton,OH,0
+Junior Data Analyst,Company - Private,Information Technology,28,52,Dublin,OH,Dublin,OH,1
+Junior Data Analyst,Company - Private,-1,28,52,Columbus,OH,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Information Technology,28,52,Columbus,OH,Rochester,NY,0
+Junior Data Analyst,Nonprofit Organization,Health Care,28,52,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Company - Private,Information Technology,28,52,Columbus,OH,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,28,52,Hilliard,OH,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,28,52,Columbus,OH,Reston,VA,0
+Junior Data Analyst,Private Practice / Firm,Information Technology,28,52,Dublin,OH,Columbus,OH,0
+Junior Data Analyst,Company - Public,Health Care,28,52,Columbus,OH,Abbott Park,IL,0
+Junior Data Analyst,Company - Private,-1,46,86,Columbus,OH,Old Bridge,NJ,0
+Junior Data Analyst,Company - Private,-1,46,86,Columbus,OH,Dayton,OH,0
+Junior Data Analyst,Company - Public,Health Care,46,86,Columbus,OH,Columbus,OH,1
+Junior Data Analyst,Nonprofit Organization,Health Care,46,86,Columbus,OH,Columbus,OH,1
+Senior Data Analyst,Company - Public,Finance,46,86,Columbus,OH,New York,NY,0
+Junior Data Analyst,Company - Private,Business Services,46,86,Westerville,OH,Boston,MA,0
+Junior Data Analyst,Company - Public,Finance,50,86,Charlotte,NC,San Francisco,CA,0
+Junior Data Analyst,Company - Public,Insurance,50,86,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Private,-1,50,86,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Public,Business Services,50,86,Charlotte,NC,Dublin,Ireland,0
+Junior Data Analyst,Company - Public,Information Technology,50,86,Charlotte,NC,Mumbai,India,0
+Junior Data Analyst,Company - Private,Finance,50,86,Mooresville,NC,Coral Gables,FL,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Charlotte,NC,Herndon,VA,0
+Junior Data Analyst,Company - Public,Business Services,50,86,Charlotte,NC,Tampa,FL,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Charlotte,NC,Basking Ridge,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,50,86,Charlotte,NC,Hanover,MD,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Charlotte,NC,Morristown,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,50,86,Charlotte,NC,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Charlotte,NC,Bridgewater,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,50,86,Charlotte,NC,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Charlotte,NC,Red Bank,NJ,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Charlotte,NC,Fort Lauderdale,FL,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Charlotte,NC,Princeton Junction,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,50,86,Charlotte,NC,New York,NY,0
+Junior Data Analyst,Company - Public,Business Services,50,86,Charlotte,NC,Menlo Park,CA,0
+Junior Data Analyst,Company - Public,Business Services,50,86,Charlotte,NC,Tampa,FL,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,50,86,Charlotte,NC,Hanover,MD,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Charlotte,NC,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Charlotte,NC,Memphis,TN,0
+Junior Data Analyst,Company - Private,Accounting & Legal,50,86,Charlotte,NC,Schaumburg,IL,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,50,86,Charlotte,NC,Hanover,MD,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,50,86,Charlotte,NC,Edison,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,50,86,Charlotte,NC,Princeton,NJ,0
+Senior Data Analyst,Company - Private,Finance,50,86,Charlotte,NC,Malvern,PA,0
+Junior Data Analyst,Company - Private,Business Services,50,86,Charlotte,NC,Brentwood,TN,0
+Junior Data Analyst,Company - Private,Health Care,54,75,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Private,Transportation & Logistics,54,75,Huntersville,NC,Huntersville,NC,1
+Senior Data Analyst,Company - Public,Information Technology,54,75,Charlotte,NC,Tokyo,Japan,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,54,75,Charlotte,NC,Glen Allen,VA,0
+Junior Data Analyst,Company - Private,Business Services,54,75,Charlotte,NC,Fort Lauderdale,FL,0
+Junior Data Analyst,Company - Private,Business Services,54,75,Charlotte,NC,South Plainfield,NJ,0
+Junior Data Analyst,Company - Private,-1,54,75,Fort Mill,SC,Fort Mill,SC,1
+Junior Data Analyst,Company - Private,Business Services,54,75,Fort Mill,SC,Cleveland,OH,0
+Junior Data Analyst,Company - Public,Business Services,54,75,Charlotte,NC,Irvine,CA,0
+Junior Data Analyst,Company - Public,Finance,54,75,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Private,-1,54,75,Charlotte,NC,Benicia,CA,0
+Junior Data Analyst,Company - Public,"Construction, Repair & Maintenance",54,75,Indian Trail,NC,Indian Trail,NC,1
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,54,75,Charlotte,NC,Atlanta,GA,0
+Junior Data Analyst,Company - Private,Business Services,54,75,Charlotte,NC,Memphis,TN,0
+Junior Data Analyst,Company - Private,Information Technology,54,75,Huntersville,NC,Charlotte,NC,0
+Junior Data Analyst,Company - Private,Information Technology,54,75,Charlotte,NC,Plano,TX,0
+Junior Data Analyst,Company - Private,Information Technology,54,75,Charlotte,NC,Montvale,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,54,75,Charlotte,NC,Woodridge,IL,0
+Junior Data Analyst,Company - Private,-1,54,75,Charlotte,NC,Dallas,TX,0
+Junior Data Analyst,Company - Public,Finance,54,75,Charlotte,NC,London,United Kingdom,0
+Junior Data Analyst,Company - Public,Business Services,54,75,Charlotte,NC,Tampa,FL,0
+Junior Data Analyst,Company - Public,Information Technology,54,75,Charlotte,NC,Tokyo,Japan,0
+Junior Data Analyst,Unknown,-1,54,75,Charlotte,NC,Farmington Hills,MI,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,54,75,Charlotte,NC,Hanover,MD,0
+Junior Data Analyst,Company - Public,Health Care,54,75,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Private,Information Technology,54,75,Charlotte,NC,Ashburn,VA,0
+Junior Data Analyst,Other Organization,-1,54,75,Charlotte,NC,Arden,NC,0
+Junior Data Analyst,Company - Private,Information Technology,53,99,Fort Mill,SC,Basking Ridge,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,53,99,Huntersville,NC,Charlotte,NC,0
+Senior Data Analyst,Subsidiary or Business Segment,Business Services,53,99,Charlotte,NC,Atlanta,GA,0
+Senior Data Analyst,Company - Public,Business Services,53,99,Charlotte,NC,Tampa,FL,0
+Junior Data Analyst,Company - Private,Business Services,53,99,Charlotte,NC,Brentwood,TN,0
+Senior Data Analyst,Company - Private,Information Technology,53,99,Charlotte,NC,Montvale,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,53,99,Charlotte,NC,Cornelius,NC,0
+Junior Data Analyst,Company - Private,Business Services,53,99,Charlotte,NC,New York,NY,0
+Junior Data Analyst,Company - Public,Retail,53,99,Mooresville,NC,Mooresville,NC,1
+Junior Data Analyst,Company - Private,Business Services,53,99,Charlotte,NC,Bethesda,MD,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,53,99,Huntersville,NC,Huntersville,NC,1
+Junior Data Analyst,Company - Private,Information Technology,53,99,Charlotte,NC,Woodridge,IL,0
+Senior Data Analyst,Company - Private,Retail,53,99,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Private,Information Technology,53,99,Charlotte,NC,Irving,TX,0
+Junior Data Analyst,Company - Public,Retail,53,99,Mooresville,NC,Mooresville,NC,1
+Junior Data Analyst,Company - Private,Business Services,53,99,Charlotte,NC,Fremont,CA,0
+Senior Data Analyst,Other Organization,-1,53,99,Charlotte,NC,Arden,NC,0
+Junior Data Analyst,Company - Private,Information Technology,53,99,Charlotte,NC,Iselin,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,53,99,Charlotte,NC,Montvale,NJ,0
+Junior Data Analyst,Company - Public,Finance,53,99,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Company - Private,Transportation & Logistics,53,99,Charlotte,NC,Hickory,NC,0
+Junior Data Analyst,Company - Public,Finance,40,74,Charlotte,NC,Tokyo,Japan,0
+Junior Data Analyst,Company - Private,Business Services,40,74,Mooresville,NC,Chicago,IL,0
+Junior Data Analyst,Other Organization,-1,40,74,Charlotte,NC,Arden,NC,0
+Junior Data Analyst,Company - Private,Business Services,40,74,Charlotte,NC,Fort Lauderdale,FL,0
+Junior Data Analyst,Company - Public,Insurance,40,74,Charlotte,NC,Charlotte,NC,1
+Junior Data Analyst,Subsidiary or Business Segment,Information Technology,40,74,Charlotte,NC,Fairfax,VA,0
+Junior Data Analyst,Company - Public,Retail,40,74,Mooresville,NC,Mooresville,NC,1
+Junior Data Analyst,Company - Private,Information Technology,40,74,Charlotte,NC,Iselin,NJ,0
+Junior Data Analyst,Company - Public,Retail,40,74,Mooresville,NC,Mooresville,NC,1
+Junior Data Analyst,Company - Public,Information Technology,57,104,San Francisco,CA,San Rafael,CA,0
+Junior Data Analyst,Subsidiary or Business Segment,Retail,57,104,San Rafael,CA,San Rafael,CA,1
+Senior Data Analyst,Company - Public,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Public,Media,57,104,San Mateo,CA,Seoul,South Korea,0
+Senior Data Analyst,Company - Public,Information Technology,57,104,San Francisco,CA,San Rafael,CA,0
+Junior Data Analyst,Company - Private,Information Technology,57,104,Oakland,CA,Oakland,CA,1
+Junior Data Analyst,Company - Private,Education,57,104,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Finance,57,104,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Company - Private,Business Services,57,104,San Francisco,CA,Glendale,CA,0
+Senior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,-1,57,104,San Francisco,CA,New Delhi,India,0
+Junior Data Analyst,Company - Private,Business Services,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Public,Information Technology,57,104,San Francisco,CA,Saint Louis,MO,0
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,Mountain View,CA,0
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,Guaynabo,PR,0
+Junior Data Analyst,Company - Private,Business Services,57,104,San Francisco,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Transportation & Logistics,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,57,104,San Francisco,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Company - Public,Real Estate,57,104,San Francisco,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Information Technology,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Retail,57,104,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,99,178,San Francisco,CA,Bethesda,MD,0
+Junior Data Analyst,Company - Private,Finance,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Health Care,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Real Estate,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Health Care,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Hospital,Health Care,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Manufacturing,99,178,San Francisco,CA,Foster City,CA,0
+Junior Data Analyst,Company - Private,Finance,99,178,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Company - Public,Finance,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Public,-1,99,178,San Francisco,CA,Houston,TX,0
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,Guaynabo,PR,0
+Junior Data Analyst,Company - Public,-1,99,178,San Francisco,CA,Louisville,KY,0
+Junior Data Analyst,Company - Private,Information Technology,99,178,San Francisco,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Retail,99,178,Oakland,CA,Oakland,CA,1
+Junior Data Analyst,Company - Private,Business Services,99,178,San Francisco,CA,Morristown,NJ,0
+Junior Data Analyst,Company - Private,Business Services,99,178,San Francisco,CA,Troy,MI,0
+Junior Data Analyst,Hospital,Health Care,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Finance,99,178,Berkeley,CA,Berkeley,CA,1
+Senior Data Analyst,Company - Public,Real Estate,99,178,San Francisco,CA,Seattle,WA,0
+Senior Data Analyst,Company - Public,Information Technology,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,College / University,-1,99,178,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,93,159,Oakland,CA,Columbia,MD,0
+Junior Data Analyst,Company - Private,Finance,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,93,159,San Francisco,CA,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Accounting & Legal,93,159,San Francisco,CA,London,United Kingdom,0
+Junior Data Analyst,Company - Public,Business Services,93,159,San Francisco,CA,Irvine,CA,0
+Senior Data Analyst,Other Organization,-1,93,159,San Francisco,CA,Irving,TX,0
+Junior Data Analyst,Company - Private,Information Technology,93,159,San Francisco,CA,Reston,VA,0
+Junior Data Analyst,Company - Public,Information Technology,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Public,Finance,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Government,93,159,Burlingame,CA,Burlingame,CA,1
+Junior Data Analyst,Company - Private,Business Services,93,159,San Francisco,CA,Tarrytown,NY,0
+Junior Data Analyst,Company - Private,Information Technology,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Health Care,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Public,Business Services,93,159,San Mateo,CA,Foster City,CA,0
+Junior Data Analyst,Company - Private,Information Technology,93,159,San Mateo,CA,Piscataway,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,93,159,Foster City,CA,San Francisco,CA,0
+Senior Data Analyst,Company - Private,Finance,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Nonprofit Organization,Health Care,93,159,Marin City,CA,Marin City,CA,1
+Senior Data Analyst,Company - Private,Information Technology,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,93,159,San Francisco,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,93,159,San Francisco,CA,Princeton,NJ,0
+Junior Data Analyst,Company - Public,Information Technology,93,159,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,93,159,Daly City,CA,Concord,CA,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,93,159,South San Francisco,CA,Waltham,MA,0
+Junior Data Analyst,Company - Private,Business Services,93,159,San Francisco,CA,Somerset,NJ,0
+Senior Data Analyst,Company - Private,Health Care,82,116,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,82,116,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Company - Public,-1,82,116,San Francisco,CA,Houston,TX,0
+Junior Data Analyst,Company - Private,Information Technology,82,116,Foster City,CA,San Ramon,CA,0
+Junior Data Analyst,Company - Public,Information Technology,82,116,Foster City,CA,Foster City,CA,1
+Junior Data Analyst,Company - Private,Information Technology,82,116,Burlingame,CA,Burlingame,CA,1
+Junior Data Analyst,Company - Private,Business Services,82,116,San Francisco,CA,Irving,TX,0
+Junior Data Analyst,Unknown,-1,82,116,Oakland,CA,Brentwood,CA,0
+Junior Data Analyst,Company - Private,Information Technology,82,116,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,82,116,Emeryville,CA,Emeryville,CA,1
+Senior Data Analyst,Subsidiary or Business Segment,Information Technology,82,116,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Consumer Services,82,116,San Francisco,CA,Edison,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,82,116,San Francisco,CA,Iselin,NJ,0
+Junior Data Analyst,Company - Public,Information Technology,82,116,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Government,82,116,Burlingame,CA,Burlingame,CA,1
+Junior Data Analyst,Company - Private,Health Care,82,116,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,-1,82,116,San Mateo,CA,Arlington,VA,0
+Junior Data Analyst,Company - Private,-1,82,116,Oakland,CA,East Brunswick,NJ,0
+Junior Data Analyst,Company - Private,Business Services,82,116,San Francisco,CA,Chesterfield,MO,0
+Junior Data Analyst,Company - Public,Media,82,116,Novato,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Information Technology,82,116,Foster City,CA,San Ramon,CA,0
+Senior Data Analyst,Company - Private,-1,82,116,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Insurance,82,116,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,-1,82,116,San Mateo,CA,Los Angeles,CA,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,San Francisco,CA,Herndon,VA,0
+Junior Data Analyst,Company - Private,-1,65,120,San Francisco,CA,Keswick,VA,0
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",65,120,Millbrae,CA,Millbrae,CA,1
+Junior Data Analyst,Company - Private,Consumer Services,65,120,San Mateo,CA,Newark,CA,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,San Francisco,CA,South Windsor,CT,0
+Junior Data Analyst,Company - Private,Accounting & Legal,65,120,San Francisco,CA,Plainsboro,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,San Francisco,CA,Woodridge,IL,0
+Senior Data Analyst,Subsidiary or Business Segment,Finance,65,120,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,65,120,San Mateo,CA,Cherry Hill,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,Oakland,CA,Minneapolis,MN,0
+Junior Data Analyst,Company - Private,Business Services,65,120,San Francisco,CA,Irving,TX,0
+Senior Data Analyst,Company - Private,Business Services,65,120,San Francisco,CA,Santa Clara,CA,0
+Senior Data Analyst,Unknown,-1,65,120,San Francisco,CA,Vienna,Austria,0
+Senior Data Analyst,Company - Public,Real Estate,65,120,San Francisco,CA,Seattle,WA,0
+Senior Data Analyst,Company - Private,Transportation & Logistics,65,120,San Francisco,CA,San Francisco,CA,1
+Senior Data Analyst,Company - Public,Information Technology,65,120,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Public,Business Services,65,120,San Ramon,CA,Tampa,FL,0
+Junior Data Analyst,Company - Public,Biotech & Pharmaceuticals,65,120,Hercules,CA,Hercules,CA,1
+Junior Data Analyst,Company - Private,Information Technology,65,120,South San Francisco,CA,Faridabad,India,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,65,120,San Francisco,CA,Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,San Francisco,CA,Princeton,NJ,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,65,120,San Francisco,CA,Glen Allen,VA,0
+Senior Data Analyst,Company - Private,Information Technology,65,120,San Mateo,CA,Palo Alto,CA,0
+Junior Data Analyst,Company - Private,Information Technology,65,120,Foster City,CA,San Francisco,CA,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,65,120,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,College / University,Education,65,120,Berkeley,CA,Berkeley,CA,1
+Junior Data Analyst,Company - Private,Business Services,46,86,San Francisco,CA,San Mateo,CA,0
+Senior Data Analyst,Company - Private,Business Services,46,86,San Francisco,CA,New York,NY,0
+Junior Data Analyst,Company - Private,Finance,46,86,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,46,86,Oakland,CA,Newark,CA,0
+Senior Data Analyst,Company - Private,Health Care,46,86,San Mateo,CA,San Mateo,CA,1
+Senior Data Analyst,Company - Private,-1,46,86,San Francisco,CA,South Melbourne,Australia,0
+Senior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Natick,MA,0
+Junior Data Analyst,Company - Public,Information Technology,46,86,Foster City,CA,Foster City,CA,1
+Senior Data Analyst,Company - Private,Business Services,46,86,San Francisco,CA,Evanston,IL,0
+Junior Data Analyst,Other Organization,Information Technology,46,86,Foster City,CA,Monmouth Junction,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Princeton,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Princeton,NJ,0
+Senior Data Analyst,Company - Public,Business Services,46,86,San Mateo,CA,Foster City,CA,0
+Junior Data Analyst,Company - Private,Information Technology,46,86,San Ramon,CA,Pleasanton,CA,0
+Senior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Guaynabo,PR,0
+Senior Data Analyst,Company - Private,Insurance,46,86,San Francisco,CA,San Francisco,CA,1
+Senior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Guaynabo,PR,0
+Junior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Alpharetta,GA,0
+Senior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,Santa Cruz,CA,0
+Junior Data Analyst,Company - Private,Information Technology,46,86,San Francisco,CA,South San Francisco,CA,0
+Senior Data Analyst,Company - Private,Business Services,46,86,San Francisco,CA,San Mateo,CA,0
+Junior Data Analyst,Company - Private,Business Services,47,74,Oakland,CA,Southfield,MI,0
+Senior Data Analyst,Company - Public,Finance,47,74,San Mateo,CA,San Mateo,CA,1
+Junior Data Analyst,Nonprofit Organization,Health Care,47,74,Oakland,CA,Sacramento,CA,0
+Junior Data Analyst,Company - Private,Finance,47,74,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Nonprofit Organization,Non-Profit,47,74,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Information Technology,47,74,South San Francisco,CA,Iselin,NJ,0
+Junior Data Analyst,Other Organization,Information Technology,47,74,Foster City,CA,Monmouth Junction,NJ,0
+Junior Data Analyst,Company - Private,Business Services,47,74,Alameda,CA,Concord,CA,0
+Senior Data Analyst,Company - Private,Business Services,47,74,Oakland,CA,Columbia,MD,0
+Junior Data Analyst,Company - Private,Business Services,47,74,Walnut Creek,CA,Fremont,CA,0
+Junior Data Analyst,Company - Public,Finance,47,74,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Government,47,74,Burlingame,CA,Burlingame,CA,1
+Junior Data Analyst,Company - Private,Biotech & Pharmaceuticals,47,74,South San Francisco,CA,Campbell,CA,0
+Junior Data Analyst,Company - Private,Business Services,47,74,South San Francisco,CA,Pleasant Hill,CA,0
+Senior Data Analyst,Company - Private,-1,47,74,San Francisco,CA,Evanston,IL,0
+Senior Data Analyst,Company - Private,Business Services,47,74,San Ramon,CA,Concord,CA,0
+Junior Data Analyst,Company - Private,Business Services,47,74,San Francisco,CA,Raleigh,NC,0
+Junior Data Analyst,Government,Government,47,74,San Francisco,CA,San Francisco,CA,1
+Junior Data Analyst,Company - Private,Business Services,47,74,Foster City,CA,Pleasant Hill,CA,0
+Junior Data Analyst,Company - Public,Manufacturing,47,74,Walnut Creek,CA,Walnut Creek,CA,1
+Junior Data Analyst,Company - Private,Business Services,47,74,South San Francisco,CA,Concord,CA,0
+Junior Data Analyst,Company - Private,Business Services,47,74,San Rafael,CA,Concord,CA,0
+Junior Data Analyst,Company - Private,Information Technology,47,74,Redwood City,CA,Newark,CA,0
+Senior Data Analyst,Nonprofit Organization,-1,47,74,San Mateo,CA,Worthington,OH,0
+Junior Data Analyst,Company - Private,Business Services,47,74,San Francisco,CA,Alpharetta,GA,0
+Junior Data Analyst,Subsidiary or Business Segment,Insurance,34,61,Carmel,IN,Carmel,IN,1
+Junior Data Analyst,Company - Public,Finance,34,61,Indianapolis,IN,Wilmington,DE,0
+Junior Data Analyst,Company - Private,Business Services,34,61,Indianapolis,IN,Fort Wayne,IN,0
+Junior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,Indianapolis,IN,1
+Junior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",34,61,Indianapolis,IN,Santa Clara,CA,0
+Junior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,Indianapolis,IN,1
+Junior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,34,61,Indianapolis,IN,Fort Wayne,IN,0
+Junior Data Analyst,Company - Private,Business Services,34,61,Indianapolis,IN,Tampa,FL,0
+Junior Data Analyst,Company - Private,-1,34,61,Indianapolis,IN,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Business Services,34,61,Indianapolis,IN,Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,Woodridge,IL,0
+Junior Data Analyst,Company - Public,Information Technology,34,61,Indianapolis,IN,Dublin,Ireland,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,34,61,Whitestown,IN,Feusisberg,Switzerland,0
+Senior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,Ashburn,VA,0
+Junior Data Analyst,Company - Private,Health Care,34,61,Indianapolis,IN,Indianapolis,IN,1
+Senior Data Analyst,Subsidiary or Business Segment,Finance,34,61,Jeffersonville,IN,Edmond,OK,0
+Junior Data Analyst,Company - Private,Information Technology,34,61,Indianapolis,IN,Woodridge,IL,0
+Junior Data Analyst,Nonprofit Organization,Health Care,34,61,Beech Grove,IN,Mishawaka,IN,0
+Junior Data Analyst,Company - Private,"Restaurants, Bars & Food Services",34,61,Indianapolis,IN,Santa Clara,CA,0
+Junior Data Analyst,Franchise,Retail,34,61,Lawrence,IN,Moosic,PA,0
+Junior Data Analyst,Company - Public,Insurance,34,61,Carmel,IN,Carmel,IN,1
+Junior Data Analyst,Company - Private,Information Technology,35,67,Redmond,WA,Waltham,MA,0
+Senior Data Analyst,Company - Private,Finance,35,67,Seattle,WA,Seattle,WA,1
+Junior Data Analyst,Company - Private,Insurance,35,67,Seattle,WA,Boston,MA,0
+Junior Data Analyst,Company - Public,Information Technology,35,67,Redmond,WA,Redmond,WA,1
+Junior Data Analyst,Company - Private,Business Services,35,67,Seattle,WA,Santa Clara,CA,0
+Junior Data Analyst,Company - Public,Finance,35,67,Seattle,WA,Seattle,WA,1
+Junior Data Analyst,Company - Private,Business Services,35,67,Seattle,WA,Seattle,WA,1
+Junior Data Analyst,Company - Public,Retail,35,67,Issaquah,WA,Issaquah,WA,1
+Junior Data Analyst,Company - Private,Information Technology,35,67,Seattle,WA,Burnsville,MN,0
+Junior Data Analyst,Company - Public,Information Technology,35,67,Redmond,WA,Redmond,WA,1
+Junior Data Analyst,Company - Public,Retail,35,67,Issaquah,WA,Issaquah,WA,1
+Junior Data Analyst,Company - Public,Finance,35,67,Seattle,WA,Charlotte,NC,0
+Junior Data Analyst,Company - Private,Aerospace & Defense,35,67,Kent,WA,Kent,WA,1
+Junior Data Analyst,Company - Private,Information Technology,35,67,Seattle,WA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Transportation & Logistics,35,67,Redmond,WA,Edison,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,35,67,Seattle,WA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,-1,35,67,Bellevue,WA,Bellevue,WA,1
+Junior Data Analyst,Company - Public,Information Technology,35,67,Bellevue,WA,Bengaluru,India,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,35,67,Seattle,WA,Seattle,WA,1
+Junior Data Analyst,Company - Private,Accounting & Legal,35,67,Seattle,WA,Chantilly,VA,0
+Junior Data Analyst,Company - Public,Information Technology,35,67,Redmond,WA,Bengaluru,India,0
+Junior Data Analyst,Company - Private,Business Services,35,67,Seattle,WA,Newark,CA,0
+Junior Data Analyst,Company - Private,-1,35,67,Seattle,WA,Singapore,Singapore,0
+Senior Data Analyst,Company - Public,Finance,35,67,Seattle,WA,Charlotte,NC,0
+Junior Data Analyst,Company - Public,Information Technology,55,101,Redmond,WA,Redmond,WA,1
+Junior Data Analyst,Company - Private,Business Services,55,101,Kent,WA,Bellevue,WA,0
+Junior Data Analyst,Nonprofit Organization,Non-Profit,55,101,Seattle,WA,Seattle,WA,1
+Junior Data Analyst,Company - Private,Business Services,55,101,Kirkland,WA,South Plainfield,NJ,0
+Senior Data Analyst,Company - Public,Media,55,101,Redmond,WA,Kyoto,Japan,0
+Junior Data Analyst,Company - Private,Business Services,55,101,Redmond,WA,South Plainfield,NJ,0
+Junior Data Analyst,Company - Public,Retail,55,101,Issaquah,WA,Issaquah,WA,1
+Junior Data Analyst,Company - Private,Information Technology,55,101,Redmond,WA,Hyderabad,India,0
+Senior Data Analyst,Company - Public,Information Technology,55,101,Redmond,WA,Redmond,WA,1
+Senior Data Analyst,Company - Private,Business Services,55,101,Seattle,WA,Santa Clara,CA,0
+Junior Data Analyst,Company - Public,Information Technology,55,101,Redmond,WA,Redmond,WA,1
+Junior Data Analyst,Company - Private,Information Technology,55,101,Seattle,WA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,55,101,Seattle,WA,Tigard,OR,0
+Junior Data Analyst,Company - Private,Business Services,55,101,Kent,WA,Bellevue,WA,0
+Junior Data Analyst,Nonprofit Organization,Information Technology,55,101,Seattle,WA,Irving,TX,0
+Junior Data Analyst,Company - Private,Business Services,55,101,Seattle,WA,Frisco,TX,0
+Junior Data Analyst,Company - Private,Information Technology,55,101,Kirkland,WA,Sunnyvale,CA,0
+Junior Data Analyst,College / University,Education,55,101,Seattle,WA,Baltimore,MD,0
+Junior Data Analyst,Company - Private,Business Services,55,101,Renton,WA,Bellevue,WA,0
+Junior Data Analyst,Company - Private,Business Services,0,1,Kent,WA,Bellevue,WA,0
+Junior Data Analyst,College / University,Education,32,56,Athens,GA,Athens,GA,1
+Junior Data Analyst,Company - Private,Information Technology,32,56,Athens,GA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,32,56,Athens,GA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,32,56,Athens,GA,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Information Technology,36,67,Burlingame,KS,Burlingame,CA,1
+Junior Data Analyst,Company - Private,Information Technology,36,67,Topeka,KS,Houston,TX,0
+Junior Data Analyst,Company - Public,Information Technology,57,67,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Public,Information Technology,57,67,Denver,CO,San Rafael,CA,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Denver,CO,1
+Senior Data Analyst,Company - Public,Information Technology,57,67,Denver,CO,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Business Services,57,67,Denver,CO,Edison,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Public,Information Technology,57,67,Denver,CO,Bengaluru,India,0
+Junior Data Analyst,Company - Private,Business Services,57,67,Centennial,CO,Cooper City,FL,0
+Junior Data Analyst,Company - Private,Business Services,57,67,Boulder,CO,New York,NY,0
+Junior Data Analyst,Company - Private,Health Care,57,67,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Information Technology,57,67,Greenwood Village,Arapahoe,Basking Ridge,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Boulder,CO,Boulder,CO,1
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Houston,TX,0
+Junior Data Analyst,Company - Private,Travel & Tourism,57,67,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Farmington Hills,MI,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Woodridge,IL,0
+Junior Data Analyst,Company - Public,"Oil, Gas, Energy & Utilities",57,67,Henderson,CO,Minneapolis,MN,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,57,67,Englewood,CO,Chicago,IL,0
+Junior Data Analyst,Company - Private,Business Services,57,67,Denver,CO,Canton,MI,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Mumbai,India,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,57,67,Greenwood Village,Arapahoe,Glen Allen,VA,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,57,67,Lakewood,CO,Gilbert,AZ,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Denver,CO,San Jose,CA,0
+Junior Data Analyst,Company - Private,Information Technology,57,67,Lakewood,CO,Alexandria,VA,0
+Senior Data Analyst,Company - Private,Information Technology,49,91,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Information Technology,49,91,Centennial,CO,Newark,CA,0
+Junior Data Analyst,Government,Government,49,91,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Information Technology,49,91,Greenwood Village,Arapahoe,Basking Ridge,NJ,0
+Junior Data Analyst,Company - Public,Finance,49,91,Lone Tree,CO,San Francisco,CA,0
+Junior Data Analyst,Company - Private,Manufacturing,49,91,Louisville,CO,Louisville,CO,1
+Junior Data Analyst,Company - Public,Aerospace & Defense,49,91,Englewood,CO,Bethesda,MD,0
+Junior Data Analyst,Company - Public,Finance,49,91,Denver,CO,Lake Success,NY,0
+Junior Data Analyst,Company - Private,Information Technology,49,91,Denver,CO,Lakewood,CO,0
+Junior Data Analyst,Company - Public,Business Services,49,91,Denver,CO,Tampa,FL,0
+Junior Data Analyst,Government,Government,49,91,Denver,CO,Washington,DC,0
+Junior Data Analyst,Company - Public,"Construction, Repair & Maintenance",49,91,Greenwood Village,Arapahoe,Greenwood Village,CO,1
+Junior Data Analyst,Company - Private,"Oil, Gas, Energy & Utilities",49,91,Lakewood,CO,West Chester,PA,0
+Junior Data Analyst,Company - Private,Business Services,49,91,Centennial,CO,Rochester,MN,0
+Junior Data Analyst,Company - Private,Health Care,49,91,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Information Technology,49,91,Denver,CO,Denver,CO,1
+Junior Data Analyst,Company - Private,Business Services,49,91,Denver,CO,West Windsor,NJ,0
+Junior Data Analyst,Company - Private,Information Technology,49,91,Broomfield,CO,Greenwood Village,CO,0
+Junior Data Analyst,Government,Government,49,91,Lakewood,CO,Denver,CO,0
+Junior Data Analyst,Company - Private,Business Services,49,91,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Business Services,49,91,Boulder,CO,Denver,CO,0
+Junior Data Analyst,Company - Private,Information Technology,49,91,Denver,CO,Lakewood,CO,0
+Junior Data Analyst,Company - Private,Business Services,49,91,Englewood,CO,Canton,MI,0
+Junior Data Analyst,Company - Private,-1,49,91,Englewood,CO,Greenwood Village,CO,0
+Junior Data Analyst,Government,Government,49,91,Denver,CO,Atlanta,GA,0
+Junior Data Analyst,Company - Public,Telecommunications,57,100,Broomfield,CO,Monroe,LA,0
+Junior Data Analyst,Company - Private,Information Technology,57,100,Denver,CO,Somerset,NJ,0
+Junior Data Analyst,Company - Public,-1,57,100,Centennial,CO,Philadelphia,PA,0
+Junior Data Analyst,Company - Private,Business Services,57,100,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Health Care,57,100,Englewood,CO,Lakeland,FL,0
+Junior Data Analyst,Company - Private,Business Services,57,100,Denver,CO,Chicago,IL,0
+Junior Data Analyst,Company - Private,Information Technology,57,100,Denver,CO,New York,NY,0
+Senior Data Analyst,Nonprofit Organization,Health Care,57,100,Aurora,CO,Oakland,CA,0
+Junior Data Analyst,Company - Public,Information Technology,57,100,Lakewood,CO,Jacksonville,FL,0
+Junior Data Analyst,Company - Private,-1,57,100,Greenwood Village,Arapahoe,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Information Technology,57,100,Denver,CO,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,57,100,Denver,CO,McLean,VA,0
+Junior Data Analyst,Company - Private,Retail,57,100,Aurora,CO,Aurora,IL,1
+Junior Data Analyst,Company - Private,Information Technology,57,100,Denver,CO,Beaverton,OR,0
+Junior Data Analyst,Company - Private,Information Technology,57,100,Louisville,CO,Louisville,CO,1
+Junior Data Analyst,Company - Private,Information Technology,57,100,Denver,CO,Woodridge,IL,0
+Junior Data Analyst,Company - Private,Business Services,57,100,Denver,CO,Chantilly,VA,0
+Senior Data Analyst,Company - Private,Business Services,57,100,Englewood,CO,Millersville,MD,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,57,100,Greenwood Village,Arapahoe,Glen Allen,VA,0
+Junior Data Analyst,Company - Public,Telecommunications,57,100,Broomfield,CO,Monroe,LA,0
+Junior Data Analyst,Subsidiary or Business Segment,Business Services,57,100,Louisville,CO,Houston,TX,0
+Junior Data Analyst,Company - Private,Business Services,57,100,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Public,Aerospace & Defense,57,100,Littleton,CO,Bethesda,MD,0
+Junior Data Analyst,Company - Public,-1,57,100,Englewood,CO,Philadelphia,PA,0
+Junior Data Analyst,Company - Private,Business Services,57,100,Denver,CO,McLean,VA,0
+Senior Data Analyst,Company - Private,Health Care,57,100,Greenwood Village,Arapahoe,West Des Moines,IA,0
+Junior Data Analyst,Company - Private,Information Technology,57,100,Greenwood Village,Arapahoe,Greenwood Village,CO,1
+Senior Data Analyst,Company - Private,Information Technology,78,104,Aurora,CO,Reston,VA,0
+Junior Data Analyst,Company - Private,Business Services,78,104,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Business Services,78,104,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Business Services,78,104,Centennial,CO,Wayne,PA,0
+Junior Data Analyst,Company - Public,Telecommunications,78,104,Broomfield,CO,Monroe,LA,0
+Junior Data Analyst,Company - Private,Business Services,78,104,Denver,CO,Alpharetta,GA,0
+Junior Data Analyst,Company - Private,Business Services,78,104,Centennial,CO,Ashburn,VA,0
+Junior Data Analyst,Company - Private,Information Technology,78,104,Broomfield,CO,Newark,CA,0
+Junior Data Analyst,Company - Private,Business Services,78,104,Denver,CO,Alpharetta,GA,0
+Senior Data Analyst,Company - Public,Business Services,78,104,Centennial,CO,Centennial,CO,1
+Junior Data Analyst,Company - Private,Information Technology,78,104,Centennial,CO,West Chester,OH,0
+Senior Data Analyst,Nonprofit Organization,Health Care,78,104,Broomfield,CO,Broomfield,CO,1
